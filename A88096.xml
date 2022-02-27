@@ -1,0 +1,661 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acquittance or discharge from Dr E.H. his demand of a fifth part of the rectory of Br.in Barks. Pleaded as in a court of equity and conscience. By John Ley preacher of the Word of God there. And now published. As l. Part of an apologie for him against the doctors defamations of him at Oxford, and elsewhere. 2. As a preparative to further contestation with him about other differences betwixt them. The contents whereof follow next after the epistle dedicatory.</title>
+            <author>Ley, John, 1583-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88096</idno>
+            <idno type="STC">Wing L1868</idno>
+            <idno type="STC">Thomason E816_13</idno>
+            <idno type="STC">ESTC R207364</idno>
+            <idno type="EEBO-CITATION">99866421</idno>
+            <idno type="PROQUEST">99866421</idno>
+            <idno type="VID">118694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118694)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E816[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acquittance or discharge from Dr E.H. his demand of a fifth part of the rectory of Br.in Barks. Pleaded as in a court of equity and conscience. By John Ley preacher of the Word of God there. And now published. As l. Part of an apologie for him against the doctors defamations of him at Oxford, and elsewhere. 2. As a preparative to further contestation with him about other differences betwixt them. The contents whereof follow next after the epistle dedicatory.</title>
+                  <author>Ley, John, 1583-1662.</author>
+               </titleStmt>
+               <extent>[20], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, M. DC. LIV. [1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou 11th:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Libel and slander --  Early works to 1800.</term>
+               <term>Characters and characteristics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118694:1" rendition="simple:additions"/>
+            <p>AN ACQUITTANCE <hi>OR</hi> DISCHARGE FROM D<hi rend="sup">r</hi> 
+               <hi>E.H.</hi> his Demand of a Fifth Part of the Rectory of <hi>Br.</hi> in <hi>Barks.</hi>
+            </p>
+            <p>PLEADED As in a Court of Equity and Conſcience.</p>
+            <p>By JOHN LEY Preacher of the Word of God there.</p>
+            <p>And now Publiſhed.</p>
+            <p>AS
+<list>
+                  <item>1. <hi>Part of an Apologie for him againſt the Doctors Defamations of him at</hi> Oxford, <hi>and elſwhere.</hi>
+                  </item>
+                  <item>2. <hi>As a Preparative to further Contestation with him about other Differences betwixt them.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Contents whereof follow next after the Epiſtle Dedicatory.</p>
+            <q>
+               <bibl>
+                  <hi>LUK. 10.7.</hi>
+               </bibl>
+               <p>The Labourer is worthy of his hire.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>JAM. 5.4.</hi>
+               </bibl>
+               <p>Behold, the hire of your Labourers which have reaped down your fields: which is of you kept back by fraud, crieth: and the cries of them which have reaped, are entered into the ears of the Lord of Sabbath.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>ISA. 61.8.</hi>
+               </bibl>
+               <p>I hate Robbery for burnt Offering.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, M.DC.LIV.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:118694:2"/>
+            <pb facs="tcp:118694:2"/>
+            <head>TO THE RIGHT HONOURABLE my very good Lord Collonel <hi>Charles Fleetwood</hi> Lord Deputy of <hi>IRELAND.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough, in an Anſwer to two injurious Petitions, put up the laſt year to the Parliament (that then was) againſt all ſet and certain Maintenance of Miniſters, I borrowed the Name of <hi>Theophilus Philadelphus,</hi> becauſe I was unwilling to own the many miſpriſions of the Printer, I made bold to acknow<g ref="char:EOLhyphen"/>ledge You<note n="*" place="margin">For the military men, I can ſay ſome<g ref="char:EOLhyphen"/>what upon mine own certain knowledge: at the Committee for Plundered Mini<g ref="char:EOLhyphen"/>ſters, I found more favour from one Colo<g ref="char:EOLhyphen"/>nel (whoſe name I then knew not, <hi>viz.</hi> Collonel <hi>Fleetwood</hi> now C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmander in chief over <hi>Ireland,</hi> and I thought he had not known me) then from any, yea or from all the reſt (<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ancient friend excepted) though at that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> extra<g ref="char:EOLhyphen"/>ordinary number. So <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Miniſters before the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Peti<g ref="char:EOLhyphen"/>tions in the laſt le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f but one.</note> by your Name, as my Patron and Protector then, when I knew you by none other Title, then a Member of Parliament, and as ſuch an one (happy it had been for this Nation, if all had been ſuch) you acted (on my behalf) accord<g ref="char:EOLhyphen"/>ing to the uprightneſs of your heart, and equity of my cauſe, to bring mine adverſary to better terms then
+<pb facs="tcp:118694:3"/>otherwiſe I could have hoped for. And when the Com<g ref="char:EOLhyphen"/>mittee for Plundered Miniſters to make me ſome amends for my precedent ſufferings (whereof I can tell a true and a ſtrange Story, and it may be ſhall doe, when a fitter opportunity inviteth me to it) ſent me to officiate as Miniſter of <hi>Brightwell,</hi> and aſſigned unto me the Rights and Emoluments of the Rectory ſequeſtred from Dr. <hi>H.</hi> you were pleaſed to write a very reſpective Letter to the Governour of <hi>Wallingford,</hi> Mr. <hi>Arthur Evelin</hi> for his aſſiſtance and favour to me, as my juſt occaſions ſhould have need of it: and for your ſake I found him ſo ready to do me not only all Right, but ſo many courteſies be<g ref="char:EOLhyphen"/>ſides, that I muſt humbly beſeech your Honour, to thank him for me: and ſince we were well acquainted, I found him for mine own ſake, the beſt Neighbour that ever I enjoyed, and by his removal from theſe parts (upon the ſleighting of <hi>Wallingford</hi>-Caſtle) not onely my ſelf, but all that are rightly principled, and ſincerely affected to the beſt Reformation of Religion and Government, are apprehenſive of a very great loſſe:<note place="margin">
+                  <list>
+                     <item>Dr. <hi>Owen</hi> Dean of <hi>Chriſt-Church.</hi>
+                     </item>
+                     <item>Dr <hi>Stanton</hi> Preſident of <hi>Corpus-Chriſti</hi>-Colledge.</item>
+                     <item>D. <hi>Wilkins</hi> Warden of <hi>Waddam</hi> Colledge.</item>
+                     <item>Dr. <hi>Langley</hi> Maſter of <hi>Pembroke</hi>-Colledge.</item>
+                     <item>Dr. <hi>Wilkinſon</hi> Principal of <hi>Magdalen</hi>-Hall.</item>
+                     <item>Dr. <hi>Conaunt</hi> Rect. of <hi>Exeter.</hi>
+                     </item>
+                     <item>Mr. <hi>Corniſh</hi> Prebendary of <hi>Chriſt-Church,</hi> with others of eminent note for learn<g ref="char:EOLhyphen"/>ing and godlineſs in that Univerſity.</item>
+                  </list>
+               </note> for he liberally and chearfully <hi>enter<g ref="char:EOLhyphen"/>tained</hi> a choice number of Preach<g ref="char:EOLhyphen"/>ers from <hi>Oxford,</hi> who (by turns) contributed their pains to a weekly Lecture at <hi>Wallingford,</hi> and hath <hi>managed</hi> both his military Authori<g ref="char:EOLhyphen"/>ty, and the Office of a Juſtice of Peace, with ſuch conſtant Pru<g ref="char:EOLhyphen"/>dence and Impartiality, as made him both a great Com<g ref="char:EOLhyphen"/>fort and Encouragement to the Good, and as great a Terrour and diſheartning to the wicked: which I the rather now profeſs in publick, <hi>becauſe I cannot</hi> (notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb facs="tcp:118694:3"/>the diſcontinuance of entercourſe betwixt us) either forget, or not gratefully remember, the many friendly and affectionate Offices I have received from him, <hi>and have not</hi> any other, or not any better way (at preſent) for that purpoſe, then this occaſion of thankful acknowledgement of your Lordſhips favour (immediate by your ſelf, and mediate by him) hath miniſtred un<g ref="char:EOLhyphen"/>to me, which I conceive you will not take for an unplea<g ref="char:EOLhyphen"/>ſing impertinency, or digreſſion: becauſe I have good reaſon to believe, that as he much honours you, ſo you have a good eſteem of him as worthy (for his Abilities and Fidelity) to be accepted under the relation, and with the affection and confidence of a Friend. And for my ſelf, as by the Divine Providence, and your own Good<g ref="char:EOLhyphen"/>neſs, I found you a gracious Advocate in my cauſe, when I knew you not; ſo now I do know you, I ſhall not doubt of your propitious Patronage in this, which now I hum<g ref="char:EOLhyphen"/>bly preſent to your equitable Cognizance and Conſide<g ref="char:EOLhyphen"/>ration, and ſhall endeavour by my heartieſt Devotions to Almighty God for your Honour, to make a ſupply for the unwilling defects and failings of more real returns, which if my Means were anſwerable to your Merit, or mine own minde, would certainly be made by</p>
+            <closer>
+               <signed>Your Honours deeply obliged, and ſincerely devoted Servant <hi>John Ley.</hi>
+               </signed>
+               <dateline>
+                  <hi>Brightwell</hi> in <hi>Berks,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 17, 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:118694:4"/>
+            <head>To the Honourable <hi>Humphrey Mackworth</hi> Eſquire, ONE OF THE Council of his Highneſs the Lord PROTECTOR.</head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough you were not at leiſure (when I waited on you about the beginning of <hi>May</hi> laſt) to receive a true and full In<g ref="char:EOLhyphen"/>formation betwixt D. <hi>H.</hi> and me: I was not diſmiſsed from you, with ſuch diſcou<g ref="char:EOLhyphen"/>ragement, that I ſhould not have hope of abetter opportunity, both for Audi<g ref="char:EOLhyphen"/>ence and Acceptance of any just motion, I had to make unto you: which (at that time) was, that you would be pleaſed, to caſt your eye upon thoſe Papers, then Manuſcripts, which now I humbly offer in Print to your Peruſal. They are the ſame in ſubstance which then I ſhewed to my Reverend Brethren M. <hi>T. G.</hi> and M. <hi>T. P.</hi> two worthy Miniſters of your County, and both before and ſince (<hi>viz.</hi> the laſt Act at <hi>Oxford</hi>) to my highly honoured Friend, D. <hi>P. F.</hi> Prebendary of <hi>Chriſt-Church:</hi> which I note as a circumſtance of time, to clear me from all ſuſpition of, or ſpirit of Preſumption or contradi<g ref="char:EOLhyphen"/>ction, againſt the Proviſo of the late Ordinance of his High<g ref="char:EOLhyphen"/>neſs the Lord Protector, and you of his Council of the <hi>29.</hi> of
+<pb facs="tcp:118694:4"/>
+               <hi>Auguſt. 1654.</hi> in the behalf of the outed Miniſters Wife and Children: For I could not then divine what your Wiſdomes would Order or Ordain for that parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p>For the Ordinance it ſelf, entirely taken, it is the Judgement of many wiſe and godly men, that it will much promote the <hi>Reformation</hi> of corrupt manners (which from ſcandalous Miniſters, like a peſtilent contagion, have ſpread abroad among the people, as the Prophet complain<g ref="char:EOLhyphen"/>ed of old, <hi>From the Prophets of Hieruſalem is pro<g ref="char:EOLhyphen"/>phaneneſſe gone into all the Land,</hi> Jer. <hi>23.15.</hi>) and it will prove the more effectual to that purpoſe, becauſe it is committed to their execution, whoſe Zeal will not cool into careleſſe Negligence, or partial connivance: that was it which made the Government of the City of <hi>Geneva,</hi> to be ſo much commended (even by <hi>Bodine</hi> a Papiſt) to which he ap<g ref="char:EOLhyphen"/>plieth the ſaying of<note n="a" place="margin">Ridiculum eſt ad legem eſſe bonum, <hi>ita fit ut quae legibus nuſquam vindicantur, illio i.</hi> Genevae <hi>coerceantur ab ils cenſoribus, qui ſummam virtutis opinionem, de ſeipſis exci<g ref="char:EOLhyphen"/>tarunt. Igitur</hi> nulla meretricia, nullae ebrie<g ref="char:EOLhyphen"/>tates, nullae ſaltationes, nulli mendici, nulli otioſi, in ea civitate reperiuntur. Bodin. <hi>Method. hiſt. c.</hi> 6. <hi>p.</hi> 246.</note> 
+               <hi>Seneca, It is a ridiculous thing</hi> (ſaith he) <hi>there to be good onely by ordaining righteous things,</hi> their manner is, to be practically as well as legally juſt, as ſtrict in execution, as wiſe in conſtitution of good Laws, <hi>thence it is that thoſe exceſſes, which no where elſe are duly puniſhed, are there reſtrained; ſo that no whoredome, no drunkenneſſe, no dan<g ref="char:EOLhyphen"/>cings, no beggars, no idle perſons, are to be found in that City.</hi>
+            </p>
+            <p>And for that Proviſo (of the fifth Part) his High<g ref="char:EOLhyphen"/>neſse, and you of his Council had to induce you to it, <hi>1.</hi> An Ordinance of Parliament. <hi>2.</hi> Examples of Pra<g ref="char:EOLhyphen"/>ctice in ſeveral Committees anſwerable to it. <hi>3.</hi> An Opi<g ref="char:EOLhyphen"/>nion
+<pb facs="tcp:118694:5"/>of Charity as the ground of both: which I humbly conceive, might make you leſse willing to debate the Point, and more ready to paſſe it, then otherwiſe you would have been, if it had been (as a new thing) to be caſt into the mould of your own judgements. The leſſe cauſe is there for ſuch as ſuffer by it, to be offended at the Ordinance <hi>(as it is yours)</hi> and the leſse offence I hope will be taken at the reaſons or deprecations of the preſsure of it (by thoſe who feel it heavy upon them) <hi>as it is theirs,</hi> who have urged it to their prejudice: requiring a fifth part for the Wife and Children of the offending Party, but awarding nothing for him nor his, who offended not, when he is (without any Pretence of inſufficiency or miſ<g ref="char:EOLhyphen"/>carriage) put out by the Patron, upon the death of the former Incumbent; which if it ſhould be ratified (as a Law of the <hi>Medes</hi> and <hi>Perſians,</hi> without any alterati<g ref="char:EOLhyphen"/>on, <hi>Daniel 6.8.</hi>) may not ſinne ſeem to have a per<g ref="char:EOLhyphen"/>petuall priviledge, which to innocence ſhall never be per<g ref="char:EOLhyphen"/>mitted.</p>
+            <p>But I am perſwaded better things of you, for I am confident, you never thought to make any of your Ordi<g ref="char:EOLhyphen"/>nances (in ſuch matters to be received (as the Pope obtrudeth his Dictates) for infallible Decrees: Nor did our Biſhops (though ſome of later time were forward e<g ref="char:EOLhyphen"/>nough, to take too much upon them) aſſume any ſuch Authority, to the Canons of their Synods, as if they could not erre: for they all ſubſcribed, to the <hi>21<hi rend="sup">th</hi>
+               </hi> Ar<g ref="char:EOLhyphen"/>ticle of the <hi>39.</hi> Articles made in the year <hi>1562.</hi> not onely of the <hi>Fallibilitie of Generall Councils, but of their actuall failing in things pertaining unto God.</hi>
+            </p>
+            <p>Nor can I fear from you or any of your Honourable
+<pb facs="tcp:118694:5"/>rank, the tart entertainment of <hi>Amos</hi> by <hi>Amaziah,</hi> for <hi>being too bold at Bethel,</hi> Amos <hi>7.13.</hi> in preſenting my Conceptions to your Cognizance (though as yet it may be ſomewhat different from ſome of yours, who ſit and act in ſo high a Sphere) ſince you are not more emi<g ref="char:EOLhyphen"/>nent for Dignity or Authority, then for the Profeſsion of the purest kinde and degree of Reformed Religion, which if it be ſincere (and I dare not think otherwiſe) is founded in <hi>Humility,</hi> and <hi>Humility</hi> will diſpoſe you to receive (without diſdain) any conſiderable Ad<g ref="char:EOLhyphen"/>vertiſement, though from a Servant: You have read it ſaid of <hi>Job,</hi> by God Himſelf, <hi>That he had not his like for Goodneſſe in the Earth,</hi> Job <hi>2.3.</hi> and for <hi>Great<g ref="char:EOLhyphen"/>neſſe, he was the greateſt of all the men of the Eaſt,</hi> Job <hi>1.3.</hi> and yet was he ſo low in his own Eyes, that he <hi>did not deſpiſe the Cauſe of his man-ſervant, or maid-ſervant, when they contended with him,</hi> Job <hi>31.13.</hi> And of <hi>Moſes,</hi> as well the <hi>worthieſt as the meekeſt man that was upon the face of the Earth,</hi> Numbers <hi>12.3.</hi> (for he was Captain Generall under the Lord of Heaſts, and over his own peculiar People, a miraculous Deliverer of them out of the hand of a most Potent and Obſtinate Tyrant) that he ſlighted not the Counſell of<note n="b" place="margin">
+                  <hi>Jethro</hi> was a Prieſt of <hi>Midian,</hi> rather then a Prince (though the Original word be taken ſometimes for a Prince or chief Ruler, becauſe his Daughters were ſo meanly imployed, and ſo little reſpected by the Shepherds, <hi>Exod.</hi> 2.16.</note> 
+               <hi>Jethro,</hi> Exodus <hi>18.</hi> though in Gifts, in Graces, in all Authori<g ref="char:EOLhyphen"/>ty, Divine and Humane, Eccleſia<g ref="char:EOLhyphen"/>ſticall and Civill, by many degrees inferiour to him.</p>
+            <p>I have been thus farre drawn on in an ingenuous free<g ref="char:EOLhyphen"/>dome of Speech unto you <hi>(Worthy Sir)</hi> by the Remem<g ref="char:EOLhyphen"/>brance
+<pb facs="tcp:118694:6"/>of my firſt Acquaintance with you (many years agoe) occaſioned by that rarely Religious Gentle-woman, then my gracious Pariſhioner, and ſince your worthily and ſingularly beloved Yoke fellow: who was not more Honoured for her Piety, by the Godly, then loved for her Charity and Humility, by all that knew Her: in which Graces my conceit hath hitherto been, that you were both ſuta<g ref="char:EOLhyphen"/>bly and happily matched.</p>
+            <p>But now it may be it will not become me to look ſo farre backward (to what is past) but rather to look up<g ref="char:EOLhyphen"/>ward to what you are at preſent, by your high Prehemi<g ref="char:EOLhyphen"/>nence: and from you, and for you, I must raiſe my thoughts farre <hi>above you,</hi> even as high as God him<g ref="char:EOLhyphen"/>ſelf, bleſsing him for you, and for your Honourable Colleagues (though principally for his Highneſſe the Lord Protector) in that you have all concurred in a pi<g ref="char:EOLhyphen"/>ous as well as a charitable Providence, for the Mini<g ref="char:EOLhyphen"/>ſters certain and comfortable <hi>Maintenance</hi> (for you con<g ref="char:EOLhyphen"/>ſidered them as by Office the Servants of God, ſo by Na<g ref="char:EOLhyphen"/>ture, Nation, and Religion, Brethren to your ſelves) <hi>manifeſted</hi> many wayes, particularly by the Instrument of Government of<note n="c" place="margin">Art. <hi>35.</hi>
+               </note> 
+               <hi>December 16<hi rend="sup">th</hi>, 1653.</hi> and the Ordinances of<note n="d" place="margin">Pag. <hi>633.</hi>
+               </note> 
+               <hi>Auguſt 29.</hi> and <hi>September 2.</hi> both of the year current, <hi>1654.</hi> which we cannot but account not onely as a gracious Beneficence of yours unto us, but as a mercifull Deliverance of us, out of their hands, who think us worthy of no better cheriſhing (for the best Service we can do to God or man,) then ſuch as <hi>Ahab</hi> appointed for <hi>Micaiah, Put this fellow in priſon, and feed him with the bread of Affliction, and with the water of Affliction, 1 Kings 21.27.</hi> whoſe princi<g ref="char:EOLhyphen"/>ples
+<pb facs="tcp:118694:6"/>ſince we know them to be ſuch as are as repug<g ref="char:EOLhyphen"/>nant to the Right and Propriety of Civill Authority as to the Right and Propriety of Sacred Miniſtrati<g ref="char:EOLhyphen"/>ons, we ſhall hold it our Duty by all warrantable wayes of oppoſition, (within the compaſſe of our Facul<g ref="char:EOLhyphen"/>ty and Function) to appear and act againſt them, as well for your ſakes, as for our own; I ſpeak in the Plurall Number (though in my preſent Addreſſe I be alone) becauſe I am well aſſured that the moſt, and worthieſt of my Brethren of the Ministry (with whom I have converſed) are wholly of my minde, in this matter: Though our Conditions in ſome reſpects be ſo different, as may put ſome of us to Petition to your Honours, for an Additionall or Supplementall Ordi<g ref="char:EOLhyphen"/>nance or Declaration, that may ſuccour us againſt in<g ref="char:EOLhyphen"/>jury, and ſecure us againſt miſery, which (without our own faults) may befall us, if by a ſeaſonable, and ſufficient Remedy from your Wiſdome, Power and Goodneſſe, they be not prevented. Mine own preſent caſe, may be an Inſtance in one particular; which I have here drawn up with more <hi>Care and Scruple,</hi> leſt I ſhould offend againſt Truth and Conſcience, in the leaſt point, <hi>then deſire</hi> to obtain any ſelf end, or worldly intereſt of mine own: as having my moſt in<g ref="char:EOLhyphen"/>tentive Thoughts ſet upon mine Account, and Hope of a better World, whither I can have now but a ve<g ref="char:EOLhyphen"/>ry ſhort Journey, mine Age being already arrived at <hi>Davids</hi> period<note n="e" place="margin">The dayes of our years are threeſcore and ten.</note> 
+               <hi>Pſalm 90.10.</hi> Yet, while I am here, I ſhall heartily pray, That God will both per<g ref="char:EOLhyphen"/>petually direct and aſsiſt you, in all your Conſultati<g ref="char:EOLhyphen"/>ons and Reſolves for the Publique Welfare of Church
+<pb facs="tcp:118694:7"/>and State, and graciouſly Requite all your good Offi<g ref="char:EOLhyphen"/>ces, to his Houſe and Houſe-hold, and ſhall faith<g ref="char:EOLhyphen"/>fully profeſſe, and ſeriouſly endeavour to approve my ſelf,</p>
+            <closer>
+               <signed>Your Honours humble and faithfull Servant <hi>JOHN LEY,</hi>
+               </signed>
+               <dateline>Brightwell <hi>in</hi> Berks <date>Octob. <hi>17. 1654.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:118694:7"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <head>
+                  <seg rend="decorInit">G</seg>Eneral Reaſons againſt the Paiment of a fifth Part.</head>
+               <item>
+                  <hi>SECT. I.</hi> Some Cautions and Diſtinctions premiſed, before the Reaſons, <hi>p. 1.</hi>
+               </item>
+               <item>
+                  <hi>SECT. II.</hi> The firſt Reaſon, taken from the Neceſsity of Miniſterial Service, in the Sequeſtred Benefite, and from the Parity of the Miniſters Caſe with others, on whom no Paiment of a fifth Part is impoſed. <hi>p. 4</hi>
+               </item>
+               <item>
+                  <hi>SECT. III.</hi> The ſecond Reaſon taken from the Preheminence of that Au<g ref="char:EOLhyphen"/>thority (which appointed us to be Incumbents) above that of private Patrons. <hi>p. 5</hi>
+               </item>
+               <pb facs="tcp:118694:8"/>
+               <item>
+                  <hi>SECT. IV.</hi> The third Reaſon taken from the manner of our Admiſsion in<g ref="char:EOLhyphen"/>to the Paſtoral Charges of the outed Ministers compared with theirs. <hi>p. 6</hi>
+               </item>
+               <item>
+                  <hi>SECT. V.</hi> The fourth Reaſon taken from the Aphoriſm of our Saviour, <hi>The Labourer is worthy of his hire,</hi> Luke <hi>10.7. p. 7</hi>
+               </item>
+               <item>
+                  <hi>SECT. VI.</hi> The fifth Reaſon taken from a compariſon of the condition of the Wife and Children, of the outed Miniſter, when he is a<g ref="char:EOLhyphen"/>live, and when he is dead. <hi>p. 8</hi>
+               </item>
+               <item>
+                  <hi>SECT. VII.</hi> The ſixth Reaſon taken from the ill Uſe our Adverſaries make of the Allowance of the fifth Part. <hi>p. 9</hi>
+               </item>
+               <item>
+                  <hi>SECT. VIII.</hi> The ſeventh Reaſon taken from the Oppreſsion of the Labour<g ref="char:EOLhyphen"/>ing Miniſters, by paiment of a fifth Part, with Objections againſt them, and Anſwers for them. <hi>p. 10</hi>
+               </item>
+            </list>
+            <pb facs="tcp:118694:8"/>
+            <list>
+               <head>
+                  <hi>Particular Reaſons againſt the paiment of a fifth Part to D<hi rend="sup">r</hi>
+                  </hi> E. H.</head>
+               <item>
+                  <hi>SECT. I.</hi> Reaſons againſt Doctor <hi>H.</hi> his claim of a fifth Part, in Par<g ref="char:EOLhyphen"/>ticular of the Rect. of <hi>Br. p. 15</hi>
+               </item>
+               <item>
+                  <hi>SECT. II.</hi> Reaſons why I ſhould not pay a fifth Part to the Doctor, <hi>p. 18</hi>
+               </item>
+               <item>
+                  <hi>SECT. III.</hi> The Doctors claim of my promiſe to pay him a fifth Part an<g ref="char:EOLhyphen"/>ſwered, <hi>p. 22</hi>
+               </item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118694:9"/>
+            <pb facs="tcp:118694:9"/>
+            <head>TO THE UNPREJUDICED READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F ſuch a one as I wiſh and ſtile thee, I ſhall not doubt to be believed by thee, in that I now ſeriouſly profeſſe (as in his preſence, who doth most exactly diſcern the difference betwixt pretences and intentions) <hi>1.</hi> That in the penning of theſe reaſons againſt the paiment of a fifth part of Sequeſtred Benefices, it is ſo farre from my thoughts to preclude any juſt way of ſuccour or ſuſtenance, to any that want (much leſſe would I do it to the Wives and Chil<g ref="char:EOLhyphen"/>dren of Miniſters (though contrary minded to me) that I wiſh them a better means of Maintenance then that is like to be in moſt places. <hi>2.</hi> That I have ſo much deſire to rectifie the errour (both in opinion and practice) about it, and to relieve my Brethren (the Incumbent Preachers) oppreſſed by it; that, if it did not concern my ſelf at all, I ſhould be willing to act and appear on their behalf, as in the former part of this Treatiſe, I have done. <hi>3.</hi> That (but for the common Intereſt of the Reformed Miniſtry) I had never made a publick Buſines of the particular paſſages, betwixt D<hi rend="sup">r</hi> 
+               <hi>H</hi> and me, though he have been too openly injurious againſt me, to ſuffer me to be ſilent toward him, or to make my defence in a meer private manner; nor would I (but for this occaſional inducement) clear my ſelf in print, from a greater change, which he hath laid againſt me (as much greater, as the whole exceeds a fifth part) for he hath often ſaid it to my face (more often I doubt not behinde my back) and once he gave it me under his hand in a Letter,
+<pb facs="tcp:118694:10"/>
+               <hi>That I ſnatched his Benefice out of his hand, before he was outed by the Committee at R.</hi> If he can prove this ſuggeſtion, I give it under my hand, that not a fifth Part onely, but the other four (ſo farre as lieth in me) ſhall be all his again: for that done, I will give up all to him, if he can procure the repoſſeſſion of it to himſelf. But in diſproof thereof, I averre, and ſhall (if occaſion require) confirm what I ſay upon Oath.</p>
+            <p>Firſt, That I never (to my beſt remembrance) heard of him, or of his Benefice, untill he was outed by the Committee of <hi>R.</hi>) and ſome means was made for it to the Committee for Plundered Mini<g ref="char:EOLhyphen"/>ſters at <hi>Weſtminſter,</hi> by M<hi rend="sup">r</hi> 
+               <hi>T.G.</hi> a learned and godly Miniſter (then of <hi>R.</hi> and well acquainted with all the preceedings againſt the Doctor for a friend of his) who received anſwer from him (who beſt knew the minde of the Committee) that it was the meaning of the chiefeſt of them, to reſerve it for me, and from him I had the firſt news of the vacancy of the Church of <hi>Br.</hi> and of that kinde intention towards me: whereupon M<hi rend="sup">r</hi> 
+               <hi>G.</hi> deſiſted from all further ſollicitation for his friend, and offered his beſt aſſiſtance to me, for mine accommodation upon acceptance of the place, which he performed accordingly.</p>
+            <p>Secondly, When the Committee had made their Order, for mine Admiſſion to it, I came not to take Poſſeſſion of it, though I were within a dayes journey from <hi>Br.</hi> untill about a month after.</p>
+            <p>Thirdly, And when I did come, I did not require any haſty re<g ref="char:EOLhyphen"/>moval of him, or his houſhold, but gave him as long a time as he deſired, for their continuance there: which was from <hi>October 13<hi rend="sup">th</hi> 1649.</hi> untill <hi>April 1. 1650.</hi> reſerving not ſo much as one chamber for my ſelf, though I began my Reſidence and Miniſtry, with my firſt coming thither, and went on with it, without any thing but labour and charge for almoſt a whole year.</p>
+            <p>Fourthly, From <hi>October 13.</hi> to <hi>April 1.</hi> he (being yet in Poſſeſſion, which (as the Proverb hath it is an eleven Points of the Law) had time enough to have ſetled himſelf where he was, if he could have done it, and he uſed all the means he could, to have the Order againſt himſelf, and for me, reverſed (without any oppoſition at all from me) and when he was out of all hope of pre<g ref="char:EOLhyphen"/>vailing
+<pb facs="tcp:118694:10"/>he wrote to me, <hi>That he would give me poſſeſſion of the houſe, as he had done of the Church, and in his Letter profeſſed, That (ſince himſelf might not be permitted to hold the living) he was contented I ſhould have it before any other man.</hi> This I have yet to ſhew under his own hand.</p>
+            <p>For other things which he hath ſaid, or can ſay againſt me, I ſhall care the leſſe, becauſe
+<list>
+                  <item>
+                     <hi>1.</hi> I am confidently and chearfully conſcious of mine own in<g ref="char:EOLhyphen"/>nocence, and clearneſſe from any charge of injuſtice that he can take up againſt me.</item>
+                  <item>
+                     <hi>2.</hi> I believe it lieth not in the power of his tongue or pen, to leſſen my eſtimation, in the Judgement of thoſe good men, with whom I am beſt acquainted, nor with any good man at all, to whom both he and I are throughly known: though it may be ſome who were mine intimate Familiars, before our late trouble<g ref="char:EOLhyphen"/>ſome Mutations, and after long intermiſſion of mu<g ref="char:EOLhyphen"/>tual entercourſe (whereby they may not know how farre, nor upon what grounds, I have been conſtant or changeable with the viciſſitude of affairs and times) may (haply) be as credulous as mine adverſary is clamorous againſt me: for there are ſome men whoſe paſſionate prejudice, will admit of no pauſe to take in any true intelligence againſt miſ-information: and it is no marvel, if ſuch do ſacrifice not only common charity, but ſpecial friendſhip, to diverſity of opinion and partiality of intereſt: from which (whether levity or iniquity) I hope my practice ſhall always prove my diſpoſition, to keepa juſt and religious diſtance.</item>
+                  <item>
+                     <hi>3.</hi> For ſuch as know me not (if they be wiſe) they will not lend too open an ear, to the accuſations of an open mouthed adverſary, ſince they may very well think it is more like that (out of envy, becauſe I poſſeſſe what he hath loſt) his ill will would not ſuffer him to ſay well, then that I, out of avarice or any other corrupt motive, ſhould do ſo ill, as he ſuggeſteth; and if they be not wiſe, their folly muſt be allowed the priviledge of a patient permiſſion, and of free pardon.</item>
+                  <item>
+                     <hi>4.</hi> That which I have now publiſhed, as it will (I truſt) give full ſatisfaction to the particulars objected, ſo it will be an earneſt of the like ſatisfactory returns to other Ob<g ref="char:EOLhyphen"/>jections,
+<pb facs="tcp:118694:11"/>(if the Doctor have any) to bring in againſt me. But</item>
+                  <item>
+                     <hi>5.</hi> That on which (as upon a rock of ſureſt refuge) I ſet up my reſt is, the precept and promiſe of the Lord by the <hi>Pſalmiſt, Commit thy way unto the Lord, truſt alſo unto him, and he ſhall bring it to paſſe; and he ſhall bring forth thy righteouſneſs as the light, and thy judgement as the noon<g ref="char:EOLhyphen"/>day,</hi> Pſal. <hi>37.5, 6.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I bleſſe his Name (for it) he hath given me grace to obey the Precept, and faith likewiſe to believe, I ſhall receive the Pro<g ref="char:EOLhyphen"/>miſe: and if his Providence make uſe of thy wiſdome and goodneſſe <hi>(good Reader)</hi> to ſuch a purpoſe, it will engage me the more affe<g ref="char:EOLhyphen"/>ctionately to remain</p>
+            <closer>
+               <signed>Thine in all Chriſtian Obſervance <hi>JOHN LEY,</hi>
+               </signed>
+               <dateline>Brightwell <hi>in</hi> Berks <date>Octob. <hi>17. 1654.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118694:11"/>
+            <head>General Reaſons againſt the Paiment of a Fifth Part, out of Sequeſtred Livings, for Maintenance of the outed Miniſters Wife and Children.</head>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <argument>
+                  <p> Some Cautions and Diſtinctions premiſed before them.</p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">W</seg>Hile I ſpeak againſt the paiment of a fifth part, in the general, my meaning is not to lay the blame of that heavy burden, upon all or the better part of the Members of that Parliament (by whoſe Authority it was ordained:) for though the King<note n="a" place="margin">M<hi rend="sup">r</hi> 
+                     <hi>Prinne</hi> in his Speech in Parliament concerning the Kings conceſ<g ref="char:EOLhyphen"/>ſions, <hi>p.</hi> 51, 52. of <hi>Edit.</hi> 3.</note> propoſed, <hi>That ſuch Mini<g ref="char:EOLhyphen"/>ſters as were ſequeſtred (for malignancy, and were not ſcandalous) might have a third part of the Livings out of which they were eje<g ref="char:EOLhyphen"/>cted,</hi> and the Houſe of Peers (for relief of their diſaffected Chaplains) meant them as liberal an allowance, as they could hope might paſſe in the Houſe of Commons (which was a fift part at the moſt) yet divers, and thoſe very eminent men, for wiſdom and godlineſs in that Houſe, were (as I have been cre<g ref="char:EOLhyphen"/>dibly informed) againſt all defalcation of any part of the Mi<g ref="char:EOLhyphen"/>niſters means, who were to bear the whole burden of the Pa<g ref="char:EOLhyphen"/>ſtoral charge, and conſented to that proportion rather as a <hi>Pro<g ref="char:EOLhyphen"/>hibition</hi> (as in caſe of uſury)<note n="*" place="margin">This ſenſe ſince this Trea<g ref="char:EOLhyphen"/>tiſe was finiſh<g ref="char:EOLhyphen"/>ed I found in the late Ordi<g ref="char:EOLhyphen"/>nance of his Highneſs the Lord Protector for the eject<g ref="char:EOLunhyphen"/>ing of ſcanda<g ref="char:EOLhyphen"/>lous, and igno<g ref="char:EOLhyphen"/>rant, and inſuf<g ref="char:EOLhyphen"/>ficient Mini<g ref="char:EOLhyphen"/>ſters and School maſters, <hi>p.</hi> 625. <hi>priucip</hi>
+                  </note> 
+                  <hi>That none ſhould have any more
+<pb n="2" facs="tcp:118694:12"/>then a fifth part, then as a Conceſſion, that every one ſhould have ſo much;</hi> and therefore the Committee for Plundered Miniſters at <hi>Weſtminſter,</hi> (which the Houſe of Lords never liked, conſiſting wholly of the Members of the Houſe of Commons) often or<g ref="char:EOLhyphen"/>dered againſt that allowance: and where they permitted it, they did it with much more moderation, and eaſe to the Incum<g ref="char:EOLhyphen"/>bent Miniſter, then Countrey Committees uſed to do, where ſome leading men, were ſometimes ſo favourable to ſequeſtred Miniſters (probably out of ſome carnal or worldly Intereſt of their own) as to make their condition more comfortable, then their who ſucceeded them, which was much againſt the minds of the ſoundeſt Members of that Aſſembly.</p>
+               <p n="2">2. Concerning the ejected Miniſters (I conceive) there may be ſome ſuch diſtinction made of them, as D<hi rend="sup">r</hi> 
+                  <hi>Du Moulin</hi> ma<g ref="char:EOLhyphen"/>keth of the Popiſh Clergy in <hi>France, I know</hi> (ſaith he<note n="b" place="margin">D. <hi>Du Moulin</hi> in his Defence of the Catho<g ref="char:EOLhyphen"/>lick faith in King <hi>James</hi> his Book, <hi>c.</hi> 6. <hi>p.</hi> 94, 95.</note>) <hi>that in this great body of the Clergy, there are a great number</hi> (though many alſo are of a quite contrary minde) <hi>on Whoſe Spirits Na<g ref="char:EOLhyphen"/>ture hath more force then their habits, and the love of their Country more then the maxims of Italy.</hi> So I may ſay, there is great dif<g ref="char:EOLhyphen"/>ference of thoſe Miniſters (whoſe lot hath been a like for out<g ref="char:EOLhyphen"/>ward loſſes) not only in their ſpirits and affections, but other<g ref="char:EOLhyphen"/>wiſe, for ſome of them are ignorant and erroneous in their judgements, irreligious and ſcandalous in their converſation, raſh, proud, uncharitable and turbulent, in their ſpirits ſpeech and behaviour: who both wiſh and watch for an opportunity to be fiſhing in troubled waters, and are every way ſuch, that as it was a very ill deed to put them into the Miniſtry, ſo it was a ve<g ref="char:EOLhyphen"/>ry good one, to put them out again.</p>
+               <p>But there are others, who are Learned, Orthodox, Diſ<g ref="char:EOLhyphen"/>creet, Humble, Charitable, who cordially deſire the peace of their Countrey, and would not (if it were in their power) re<g ref="char:EOLhyphen"/>deem themſelves from private damage, with any publick calami<g ref="char:EOLhyphen"/>ty: their greateſt fault being, their errour in opinion, and affe<g ref="char:EOLhyphen"/>ction too adverſe to any form of Government, that is not here<g ref="char:EOLhyphen"/>ditarily and abſolutely Monarchical, and to any form of wor<g ref="char:EOLhyphen"/>ſhip, but that of the Service-book.</p>
+               <p>For ſuch as theſe (or if they be not altogether ſuch without the abatement of ſome grains of juſt weight) I wiſh them ra<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:118694:12"/>a plentiful, then a competent Subſiſtance, rather five parts for their Portion, then a fifth only: which they might have (if the State have no Juſt Cauſe, to be Jealous of their peaceablenes or loyalty) by being admitted to other places: for as to the ſame, it is like our pious and prudent Superiours are moſt of them, of the late Earl of <hi>Kent</hi> his mind, who (as I have heard him ſay) was re<g ref="char:EOLhyphen"/>ſolved (ſo far as he had to do, when he was one of the Lord Keep<g ref="char:EOLhyphen"/>ers of the Great Seal) that he would ſend them as far as the di<g ref="char:EOLhyphen"/>ſtance betwixt Eaſt and Weſt, North and South, rather then place them in the Pariſhes from whence they were removed.</p>
+               <p>But for my ſelf, I am ſo farre from hardning my heart againſt the grievances of any of my godly Brethren (who ſuffered any hard meaſure under pretence of Reformation, or Propagation of the Goſpel) that I heartily wiſh the Declaration lately pub<g ref="char:EOLhyphen"/>liſhed under the Title of <hi>Gemitus Eccleſiae Cambro-Britan<g ref="char:EOLhyphen"/>nicae,</hi> may be ſeriouſly conſidered, and enquired into, and if the complaints therein be true, that due and ſeaſonable re<g ref="char:EOLhyphen"/>dreſs may be applied unto them. And if the State had been pleaſed to allow any of them whom they have diſplaced, a competent mainte<g ref="char:EOLhyphen"/>nance, out of the Biſhops, or Dean and Chapters Lands, to which (the Offices put down) no perſonal ſervice is annexed,<note n="c" place="margin">Cambd. <hi>Annal.</hi> Eliz. lib. <hi>2.</hi> pag. <hi>56.</hi>
+                  </note> as Queen <hi>Elizabeth</hi> did, to Abbots and other Eccleſiaſtical perſons, out of their confiſcate Lands, and other Revenues, their charity towards them had been (as I conceive) not only lawful, but commenda<g ref="char:EOLhyphen"/>ble, or had they made a rate for their cha<g ref="char:EOLhyphen"/>ritable relief, (as for the Taxes or Impo<g ref="char:EOLhyphen"/>ſitions which are general all over the Land) I ſhould willingly have born my proportionable ſhare, with thoſe who are bound to charity, as well as my ſelf, or had they put but one or a few Delin<g ref="char:EOLhyphen"/>quents upon our whole Tribe to be maintained, as <hi>Solomon</hi> is ſuppoſed by ſome to have done, by<note n="d" place="margin">He was not to live upon the Levites por<g ref="char:EOLhyphen"/>tion, but was conſined to his own fields in <hi>Anathoth,</hi> his own (not in common with others, but) proper and perſonal, as his own Inheritance So M<hi rend="sup">r</hi> 
+                     <hi>Gilleſpy</hi> in his Book called <hi>Aarons Rod Bloſſoming</hi> in Ap<g ref="char:EOLhyphen"/>pend. added to the firſt Book, <hi>pag.</hi> 138. For though the Tribe of <hi>Levi</hi> had not a part of the Land of <hi>Canaan,</hi> ſeparate or ſet apart by themſelves (as the other Tribes had) yet upon extraordinary oc<g ref="char:EOLhyphen"/>caſions) it might and ſometimes did fall out, that ſome might have peculiar Intereſt in particular Lands, not only ſince they loſt the Land of <hi>Canaan,</hi> as <hi>Joſes</hi> ſurna<g ref="char:EOLhyphen"/>med <hi>Barnabas</hi> a Levite had, and ſold them, <hi>Act.</hi> 4.36, 37. but before that time, as <hi>Jeremy</hi> (who was of the ſame Tribe, as <hi>Dorotheus</hi> writeth in his Book of the Proph. <hi>&amp;c.</hi> added to <hi>Euſeb. Socr.</hi> and <hi>Evagr.</hi> p. 527.) who bought a field of <hi>Hananiel</hi> his Uncles ſon, <hi>Jer.</hi> 32.9.</note> 
+                  <hi>Abiathar,</hi>
+                  <pb n="4" facs="tcp:118694:13"/>1 <hi>Kings</hi> 2.26. (though I conceive it is their miſtake) I ſhould not have thought it a juſt occaſion of complaint.</p>
+               <p>But that it ſhould not be impoſed upon every one ſeverally, to pay a fifth part of the Revenue belonging to his Paſtoral Charge, I hope I may have leave to aſſert upon the Reaſons enſuing.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <argument>
+                  <p> The firſt Reaſon, taken from the Neceſsity of Miniſterial Service, in the Sequeſtred Benefice, and from the Parity of the Miniſters Caſe with others, on whom no Paiment of a fifth Part is impoſed.</p>
+               </argument>
+               <p n="1">1. THough they and their Abettors, account ſuch as are placed in Sequeſtred Livings, Intruders into their Rights, they may hold themſelves fairly and juſtly poſſeſſed of them; for when a place of Office, is made void, (whether it be Civil or Eccleſiaſtical) which neceſſarily requires an Incum<g ref="char:EOLhyphen"/>bent upon it, to officiate, and the Party put out, is diſabled to do any Miniſterial Duty in it, it is lawfull for another to ſupply his place (eſpecially in a Paſtoral Charge) that Gods Sabbaths may ſolemnly be obſerved, and the people ſpiritually provided for (that their ſouls may be ſaved) which muſt be done, whe<g ref="char:EOLhyphen"/>ther the Miniſter were injuriouſly ejected or not, and <hi>Beneficium</hi> belonging to <hi>Officium,</hi> the reward (the whole reward) is due for the whole work, to him that doth it.</p>
+               <p>But if the party be put out for criminal miſcarriage as the Se<g ref="char:EOLhyphen"/>queſtration is more Juſt, ſo is the Entrance of another into his place, more juſtifiable: Eſpecially, if he had no hand, either dirrctly, or indirectly for his putting out: Upon this ground, ſuch as have poſſeſſed Civil Offices, as the Keepers of the Great Seal, Judges, Recorders of Cities and Towns corporate, Heads of Colledges, Halls, Hoſpitals, in the Univerſities, and elſe<g ref="char:EOLhyphen"/>where, as alſo Military Officers (who poſſeſs the places of ca<g ref="char:EOLhyphen"/>ſhiered Commanders) have never been charged with paiment of a fifth part, to their predeceſſours wives and children, though
+<pb n="5" facs="tcp:118694:13"/>thoſe that were put out, had as much need, and they that ſuc<g ref="char:EOLhyphen"/>ceeded them, had as much means, to relieve them in their wants as Miniſters have, and for the moſt part much more, and they may crave, and hope alſo to enjoy the ſame immunity with them, unleſs ſome colour of reaſon may be rendered to the con<g ref="char:EOLhyphen"/>trary, which they cannot anſwer.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <argument>
+                  <p> The ſecond Reaſon taken from the Preheminence of that Authority (which appointed us to be Incumbents) above that of private Patrons.</p>
+               </argument>
+               <p n="2">2. THe next conſideration for Exemption from this Charge, is of the preheminence of that Authority, (which ap<g ref="char:EOLhyphen"/>pointed the ſubſtituted Incumbent) above that of private Pa<g ref="char:EOLhyphen"/>trons: (which is the ſame by which ſetled and itinerant Juſtice is adminiſtred, mens lives and livelihoods diſpoſed of, all mat<g ref="char:EOLhyphen"/>ters of peace and warre ordered and managed (throughout three populous Nations) by whoſe power, the people are pro<g ref="char:EOLhyphen"/>tected, for the ſafety of their perſons and propriety of their E<g ref="char:EOLhyphen"/>ſtates: and but for which (whatſoever is pretended for ano<g ref="char:EOLhyphen"/>ther Title) we might come under more calamity (by Anarchical and Democratical confuſion) then by Monarchical or Oligar<g ref="char:EOLhyphen"/>chical Tyranny.</p>
+               <p>Taking thoſe who have ſuch predominant power for our Pa<g ref="char:EOLhyphen"/>trons, we may (we hope) deſire, deſerve and expect as much priviledge and protection, as the Clerks of private Patrons have enjoyed, who were never compelled to pay a fifth part, to thoſe that have been put out upon the death of the outed Mi<g ref="char:EOLhyphen"/>niſter: though liable to no manner of Exception, either of In<g ref="char:EOLhyphen"/>ſufficiency, Negligence, Scandall, or Diſaffection to the pre<g ref="char:EOLhyphen"/>ſent Powers: and it ſhould not be forgotten, and (being re<g ref="char:EOLhyphen"/>membred) it may ſtop the mouths of ſuch as are apt to clamour (if the fifth part be denied them) that Biſhops (when the Church door keys hanged on their girdles) ſuſpended <hi>ab Officio &amp; Be<g ref="char:EOLhyphen"/>neficio,</hi> divers of the moſt learned, godly and conſcientious
+<pb n="6" facs="tcp:118694:14"/>
+                  <hi>non</hi>-Conformiſts of this Nation, meerly for ſcrupling a ſuper<g ref="char:EOLhyphen"/>ſtitious Ceremony, which themſelves confeſſed (at the beſt) to be but a thing indifferent, and oft times abſolutely deprived them of their Benefices, and inſtituted and inducted others in<g ref="char:EOLhyphen"/>to them: thereby cutting from them all hope of recovery, but allotting no portion at all, for ſupply either of them, or their wives and children. So that the Benefit came in entire to them, though they were admitted to their Benefices, but by the Right of particular Patrons: and ſhould not the Parliaments Patronage, bring with it as great a priviledge to their Chaplains, as that of private Patrons to the Clerks they preſent?</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV.</head>
+               <argument>
+                  <p> The third Reaſon taken from the manner of our Admiſsi<g ref="char:EOLhyphen"/>on into the Paſtoral Charges of the outed Mi<g ref="char:EOLhyphen"/>nisters compared with theirs.</p>
+               </argument>
+               <p n="3">3. THat our Condition ſhould not be worſe then theirs, we may (I ſpeak ſometimes in the Plural number, becauſe my caſe is not ſingular, many being in the ſame condition, and I preſume in theſe conſiderations conſenting with me) I ſay, al<g ref="char:EOLhyphen"/>leadge the different manner of our Admiſſions to our reſpective places, and that in two particulars, 1. In the Trial and Exami<g ref="char:EOLhyphen"/>nation of Miniſters, before their Admiſſion into their Incum<g ref="char:EOLhyphen"/>bency, which was nothing ſo ſtrict and exact in former time, as in the way preſcribed by the Parliament. 2. In the freeneſs of their Patrons benevolence without any Exaction or Expectation of any profit, yea without any ſuſpition of Simony, either ex<g ref="char:EOLhyphen"/>preſs or implicit, which was ſo familiar in former times betwixt Patrons and their Clerks; that there were few preſented, whom ſecular gifts did not make more gracious in the eyes of their Patrons, then Spiritual: which if it were known, the Clerk was to be turned out of his Benefice, and the Patron to loſe his next turn of preſenting. In theſe reſpects our en<g ref="char:EOLhyphen"/>trance being more fair and free from juſt Exception and Suſ<g ref="char:EOLhyphen"/>pition then theirs, I humbly conceive, we ſhould enjoy
+<pb n="7" facs="tcp:118694:14"/>our places (at leaſt) with as much freedome as they have done.</p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <argument>
+                  <p> The fourth Reaſon taken from the Aphoriſm of our Saviour, <hi>The Labourer is worthy of his hire,</hi> Luke <hi>10.7.</hi>
+                  </p>
+               </argument>
+               <p n="4">4. WHere our Saviour ſaith, <hi>The Labourer</hi> (not he that laboureth not) <hi>is worthy of his hire,</hi> Luk. 10.7. he meaneth, <hi>That he that doth the whole work, ſhould have the whole wages; and this is as juſt as that he that hath the whole wages, ſhould do the whole work:</hi> Though the time hath been (before the Parliament called in the laſt Kings time) that many (in <hi>London</hi> eſpecially) took the whole pay of Parſonage, and would do but half the duty of a Parſon or Paſtor, preaching (at moſt) in the forenoon of the Sabbath day, and putting the Pariſhion<g ref="char:EOLhyphen"/>ers to pay for the afternoons Sermon, upon another account: for they were fain to take it as a courteſie, that their Parſon gave them leave to chooſe a Lecturer, and to pay him them<g ref="char:EOLhyphen"/>ſelves, for the performance of that Service, which belonged to his Office in his own perſon (<hi>if he were able</hi> to undergo it) (for he was to uſe double diligence according to that of <hi>Solomon, In the morning ſowe thy ſeed, and in the evening let not thy hand reſt: for thou knoweſt not whether ſhall proſper, this or that, or whether they both ſhall be alike good,</hi> Eccleſ. 11.6.) <hi>if not,</hi> and the means were competent, he was to bear the charge of his aſſiſtants Service: but no body ſhould be compelled to pay to him, or his, that aſſiſteth not, that doth no Service in the Office, for which a Salary or Maintenance is aſſigned.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="8" facs="tcp:118694:15"/>
+               <head>SECT. VI.</head>
+               <argument>
+                  <p> The fifth Reaſon taken from a compariſon of the condition of the Wife and Children, of the outed Miniſter, when he is alive, and when he is dead.</p>
+               </argument>
+               <p n="5">5. IF the outed Miniſter be juſtly put out, and another as juſt<g ref="char:EOLhyphen"/>ly put in by the Supream Authority (though moſt offend<g ref="char:EOLhyphen"/>ers will be rather querulous then quiet under the juſteſt ſen<g ref="char:EOLhyphen"/>tence, that is or can be paſſed upon them) it cannot but appear juſt, to allow the entire maintenance to the Incumbent Mini<g ref="char:EOLhyphen"/>ſter, as well while the Delinquent liveth, as when he is dead (in which caſe the fifth part is neither allotted by Authority, nor looked for by their widows or fatherleſs children) yea rather, while he is alive, then when the caſe is ſo far altered with him, as to be ſequeſtred not only from his ſuper-intendency over a particular Pariſh, but from all Society with the whole world, and that for two Reaſons:
+<list>
+                     <item>1. Becauſe <hi>mortui non mordent,</hi> being dead they can do no more hurt, but while they live, their repining at the power, which took their Benefices from them, their envy at thoſe who are put into poſſeſſion of that they have forfeited, and their inordinate zeal for reſtitution of a contrary Authority, (whatſoever it coſt either in bloud or treaſure) and the like degree of ſuperſtitious devotion to the Service-book, and corrupt cuſtoms, make them ſometimes boldly and buſily to beſtir themſelves, to cheriſh the like diſaffection to the pre<g ref="char:EOLhyphen"/>ſent State, and fond affection to the former in the people, and ſo to harden them againſt the Reformation both Eccleſiaſtical and Civil, as alſo to make thoſe odious unto them, who in compliance thereto (out of conſcience) officiate contrary to their affected forms, and prejudicating fancies: wherein ſome have done more diſſervice to the preſent Government (ram<g ref="char:EOLhyphen"/>bling about to make now proſelytes, and to confirm old Ma<g ref="char:EOLhyphen"/>lignants (which they do ſo much more buſily, as they have the leſſe to do, and the more boldly, as they have the leſſe to
+<pb n="9" facs="tcp:118694:15"/>loſe) then they could have done, when their conſtant Mini<g ref="char:EOLhyphen"/>ſtry was confined to one place: for ſo their corrupt Doctrine was but as the poiſoning of a Pond or Ciſtern, whereas now ſome of them take leiſure and liberty to poiſon the chief fountains in the Land with ſuperſtitions, unſound, and (as far as they dare) ſeditious doctrine.</item>
+                     <item>2. Becauſe while they are living (though the wiſdom of the Parliament hath thought it fit, to cut off all hope of re<g ref="char:EOLhyphen"/>ſtitution to the ſame Churches ſequeſtred from them) they are not out of hope of maintenance (eſpecially ſince the En<g ref="char:EOLhyphen"/>gagement is laid aſide) if they do not wilfully perſiſt in their oppoſition to the State and Reformation propoſed: for ſome of them<note n="e" place="margin">
+                           <hi>Iſocrates</hi> gain<g ref="char:EOLhyphen"/>ed more ſilver by teaching of a School, then ever any pro<g ref="char:EOLhyphen"/>feſſour did, ſo that he was a<g ref="char:EOLhyphen"/>ble to defray the charge of a Galley at Sea. <hi>Plut.</hi> Morals in the lives of the 10 Orators, p. 924.</note> 
+                        <hi>Iſocrates</hi>-like, by teaching of Schools, have thriven more (by what they have gotten and ſaved that way (living in a more private and leſſe expenſive manner) then when they poſſeſſed their Benefices, and bare the burdens incident unto them. Some again have gained more by preaching without them, then when they poſſeſſed them: And ſome I am ſure have been put out of a ſmall Benefice, and (upon taking the Engagement) have been put into a great one, ſo that they may ſay as<note n="f" place="margin">
+                           <hi>Plutarch</hi> in the life of <hi>The<g ref="char:EOLhyphen"/>miſtocles,</hi> p. 131</note> 
+                        <hi>Themiſtocles</hi> to his ſons, <hi>My ſons, we had been undone if we had not been undone.</hi> So they, We had been impoveriſh<g ref="char:EOLhyphen"/>ed in our ſmall livings, if (for our oppoſition to the Parlia<g ref="char:EOLhyphen"/>ment) we had not been put out of them, and by compliance with the Parliament, (whether ſincerely or deceitfully they cannot tell) we had not been placed in ſuch as are better.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <head>SECT. VII.</head>
+               <argument>
+                  <p> The ſixth Reaſon taken from the ill Uſe our Adverſaries make of the Allowance of the fifth Part.</p>
+               </argument>
+               <p n="6">6. THe allotting of the fifth part of Eccleſiaſtical profits (as aforeſaid) hardens many both againſt the Parliament, and againſt thoſe whom they ſend to ſucceed the ſequeſtred Mi<g ref="char:EOLhyphen"/>niſters. for they take this fift part as a rent, whereby their right
+<pb n="10" facs="tcp:118694:16"/>of re-entry is reſerved to them, and ſo they and their complices have made account hitherto, that their Succeſſours tenure holding what they have (as yet they have done) not for their own, but anothers life, a turn of providence (which they hope for, and will help forward all they can) will return them into their former eſtate, and ſo (after a Parentheſis of Sequeſtrati<g ref="char:EOLhyphen"/>on is paſt) the whole ſentence of reſtitution, and repoſſeſſion, will ſettle them where they were, in a right of perpetuity, and this (believing the lying reports and predictions of their News<g ref="char:EOLhyphen"/>makers, their falſe prophets, as <hi>Ahab</hi> did his) they expect will ſpeedily be brought to paſs.</p>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. VIII.</head>
+               <argument>
+                  <p> The ſeventh Reaſon taken from the Oppreſsion of the Labouring Miniſters, by paiment of a fifth Tart, with Objections againſt them, and Anſwers for them.</p>
+               </argument>
+               <p n="7">7. BEcauſe by the taking away of the fifth part from them, they are (in effect) put every fifth year to ſerve the Cure, without any wages, and if the fourth years fruitfulneſs were but doubled, as by the bleſſing of God every ſixth year was trebled to the Jews, <hi>Levit.</hi> 25.21. when the ſeventh was to reſt, and ſo to bring forth none encreaſe: or that they might out of all the former years, not by ſcandalous nigardice, but by ingenuous Providence, lay up a portion, which might make a competent ſupply, for that annual dimi<g ref="char:EOLhyphen"/>nution, they might be very well content with the one, or with patience and ſilence endure the other. But as the caſe is with them, by paiment of publick impoſitions, rated by thoſe who to ſpare themſelves (and ſometimes to ſpight us) aggravate our charge without either Mercy or Ju<g ref="char:EOLhyphen"/>ſtice: by the tax of this<note n="g" place="margin">I call it an Egyptian Tribute, in regard of the proportion, the fifth part, which was paid to <hi>Pharaoh</hi> by his people, <hi>Gen.</hi> 41.34. though otherwiſe contrary to that which many of us have cauſe to complain of, for the Egyptian fifth part was laid up, as proviſion for prevention of famine, to thoſe that paid it: our paiment of a fifth part is our preſent oppreſſion, without the expe<g ref="char:EOLhyphen"/>ctation of any good for hereafter.</note> Egyptian Tri<g ref="char:EOLhyphen"/>bute,
+<pb n="11" facs="tcp:118694:16"/>by the open and wilfull defraudings of ſome of them, as if it were rather their right then any wrong to us to rob us of the tenth by many accidental expences which come upon divers of us, after the proportion of the common report of the value of our livings (exceedingly one rated ſometimes of purpoſe, to advance the fifth part to the greater advantage of thoſe that require it) wherein they expect no leſs liberality from us, then when all came in without ſuch paiments, and went out at the market upon farre more profitable prizes, then now they do, receipts and disburſments rightly reckoned together, the allow<g ref="char:EOLhyphen"/>ance will be little for the ſubſiſtence of the Miniſters in ſervice, and their Families; nothing at all to be ſaved to pay debts (contracted partly by precedent plunderings, partly by the charge of enforced removals, from place to place) which draw in damage at both ends <hi>a termino a quo &amp; ad quem,</hi> (from the place whence they come, and whither they go) nor to raiſe any reaſonable portions for their children, nor to make any competent proviſion for their wives, in caſe of widowhood, when they ſurvive them. For mine own part (and I doubt not but there are others of my Brethren of my minde) though the <hi>R.</hi> of <hi>Br.</hi> (if duly payed and not unduly charged) would be as Beneficial as I would deſire, yet as it is to me (with all the de<g ref="char:EOLhyphen"/>falcations and burdens incident unto it) if my conſcience could be diſcharged, from obligation to the Paſtorall Charge of it, and would allow me to reap where I ſowe not, I ſhould be contented to give it up, and to be confined to a fifth part only: eſpecially if I had D.<hi>H.</hi> his either preſent means, or fu<g ref="char:EOLhyphen"/>ture hopes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> If any object, That the Ordinance of Parliament alloweth a fifth part of the Sequeſtred Benefice to the outed Miniſters, and if we like not to take upon us the Incumbency (upon theſe tearms, we may give up the work and wages both, or rather (at the firſt) we ſhould have refuſed to undertake the one, and to take the other.</p>
+               <p>I anſwer</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Firſt, That the Ordinance for ejecting of ſcandalous Mi<g ref="char:EOLhyphen"/>niſters,would not have paſſed, in the Houſe of Peers, without the allowance of a fift part to their wives and chil<g ref="char:EOLhyphen"/>dren:
+<pb n="12" facs="tcp:118694:17"/>and therefore there was at the firſt a kinde of neceſſity, to allot them ſuch a portion, though otherwiſe many godly and worthy Members of the Houſe of Commons were againſt it, as before hath been obſerved.</p>
+               <p>Secondly, Though ſome Countrey Committee men have (againſt all equity and ingenuity) urged the letter of the Ordinance, as if (like the Rule of <hi>Ignatius Loiola</hi>)<note n="h" place="margin">Ad literam, ad literam, fine gloſ<g ref="char:EOLhyphen"/>ſa, ſine gloſſa. Reg. Societ. Jeſu</note> 
+                  <hi>To the Letter, to the Letter, without a Gloſſe, without a Gloſſe,</hi> it were punctually to be obſerved in all caſes, without Ex<g ref="char:EOLhyphen"/>ception or Limitation. The Committee for Plundred Mini<g ref="char:EOLhyphen"/>ſters at <hi>Weſtminſter,</hi> have (by their uſuall practice) ex<g ref="char:EOLhyphen"/>pounded it otherwiſe, allowing ſometimes no fifth part at all, and that they might very juſtly do, in divers ca<g ref="char:EOLhyphen"/>ſes: As
+<list>
+                     <item>1. Where the Benefice will not bear it, and leave a com<g ref="char:EOLhyphen"/>petent Subſiſtence for the Incumbent.</item>
+                     <item>2. Where the outed Miniſter hath means of Subſiſtence of his own, or by his wife.</item>
+                     <item>3. Where the Father or Grandfather is rich enough to maintain the wife and children, in which caſe, the<note n="i" place="margin">For this ſee <hi>Mich. Doltons</hi> Juſtice of Peace, p. 84. <hi>fine,</hi> and p. 85. <hi>princip.</hi> printed for the Com<g ref="char:EOLhyphen"/>pany of Statio<g ref="char:EOLhyphen"/>ners, <hi>au.</hi> 1619.</note> Law the charge upon them.</item>
+                     <item>4. Where the Party put out continueth ſcandalous, and diſaffected to the Government, and contumaciouſly oppoſeth the Reformation, either of Church or State: For it ſeems juſt and reaſonable that he ſhould thereby forfeit the fifth parts, as well as the four parts before, for his former miſcarriage. And for ſuch as were ſcan<g ref="char:EOLhyphen"/>dalous, the<note n="*" place="margin">See the quo<g ref="char:EOLhyphen"/>tation of Mr. <hi>Prinne</hi> at the beginning of the firſt Secti<g ref="char:EOLhyphen"/>on.</note> late King (though tender to his party) required none allowance, and ſometimes they allowed leſſe then a fifth part, as if the Delinquent had any means at all that was to be reckoned to make up a fifth part, as if the fifth part were 40 <abbr>l</abbr>, and he had 20 <abbr>l</abbr> of his own, he was to receive but another 20 <abbr>l</abbr> of the Incum<g ref="char:EOLhyphen"/>bent Miniſter.</item>
+                  </list>
+               </p>
+               <p>Thirdly, The Miniſters acceptance of a Paſtoral Charge, with the burden of priment of a fifth part, ſhould be no prejudice, either to their ſuing or ſpeeding for deliverance from it: becauſe it was then impoſed, when they were dri<g ref="char:EOLhyphen"/>ven
+<pb n="13" facs="tcp:118694:17"/>from their own places, and plundered by the Malignant party, of all they had: in which extremity they were glad to take pains, upon any tearms: he that hath nothing will not refuſe to do ſervice, though he have not ſo good pay for his pains, as <hi>Micah</hi> his Prieſt had, <hi>Ten Shekels of ſilver a year, a ſuit of apparel and Victuals,</hi> Judg. 17.10. and thence it was that the Houſe of Lords (at the firſt) made no ſcruple, to order that not a fifth part, or third only, but a<note n="k" place="margin">Witneſs the caſe of D. R. from whom the Rectory of <hi>F.</hi> in <hi>Eſſex</hi> was ſequeſtred, and he was by Order of the Houſe of Lords, to have half the profit of the Be<g ref="char:EOLhyphen"/>nefice, and M. <hi>l.</hi> now (or late) Miniſter at <hi>Br.</hi> but the other half, to ſerve the Cure, and this Sequeſtration to laſt but half a year, as a perſon of eminent place, parts, and integrity, told me not long agoe.</note> full half of the mainte<g ref="char:EOLhyphen"/>nance of a Preaching Miniſter, ſhould be paid to him, who was not to preach, and as if this were too great a favour to be long enjoy<g ref="char:EOLhyphen"/>ed, it was to hold out but half a year.</p>
+               <p>But now their<note n="l" place="margin">I mean not by any thing I have ſaid of the Houſe of Lords, any diminution of dignity to thoſe truly noble and worthy Patriots of that Houſe, who have been faithfull and conſtant to the cauſe of the Commonwealth, againſt the boundleſſe Prerogative of an abſolute Monarchy: for upholding whereof thirty eight Earls and Lords revolted from the Parliament to the King, who are particularly named in M. <hi>Mays</hi> Hiſtory of the Parliament of <hi>England,</hi> lib. 2. cap. 5. pag. 87. nor from theſe would I detract any honour due unto them, though I have no reaſon to like their reſolution, in this particular.</note> Lordſhips have no ſuch power (in favour of their Chap<g ref="char:EOLhyphen"/>lains) to oppreſs the Miniſters put into their places by the Houſe of Commons (who now without them are reputed a compleat Parliament) they may both with good Conſcience complain, and upon juſt reaſons (ſuch as have been given in this cauſe) ex<g ref="char:EOLhyphen"/>pect, that that burden which at firſt was laid upon them, and taken up by them, by a double neceſſity (as hath been ſhewed) ſhould not ſtill be continued when it is in the power of their Patrons to relieve them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But it is againſt Charity to deprive the offender of all his means, and to leave his wife and children who offended not without any maintenance.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Firſt, I grant it is ſo, and not in the caſe of Miniſters only, but of others, who put out of Office, have no fifth part aſſigned them or theirs, out of the Offices they have loſt, and not alone while they are living, but when they are dead, and then much ra<g ref="char:EOLhyphen"/>ther, as hath been proved.</p>
+               <pb n="14" facs="tcp:118694:18"/>
+               <p>Secondly, I hold that we are bound by the rule of Scripture, to give bread and drink to an hungry and thirſty enemy, <hi>Proverbs</hi> 25.21. <hi>Romans</hi> 12.20. but I take not this to be a meer miniſteriall Duty, but a Chriſtian Duty common with us, to all others of our Chriſtian Profeſſion, and there<g ref="char:EOLhyphen"/>fore</p>
+               <p>Thirdly, I wiſh the caſe of all indigent perſons may be taken into compaſſionate conſideration, and ſuch means or<g ref="char:EOLhyphen"/>dered and ordained (for their relief) as is moſt juſt and reaſonable: and it is moſt juſt and reaſonable, that a com<g ref="char:EOLhyphen"/>mon duty (as that charity is) ſhould be exerciſed in ſuch a proportion, as that it may not be oppreſſive to any par<g ref="char:EOLhyphen"/>ticular perſon, as the paiment of the fifth part is, even to thoſe who are poſſeſſed of Benefices of good value, for as in part I have ſaid before,
+<list>
+                     <item>1. The Pariſhioners in moſt places make no conſci<g ref="char:EOLhyphen"/>ence to pay them their dues, or to rob them of their portion, becauſe they take them for intruders into other mens Rights.</item>
+                     <item>2. They care not how heavily they load them in taxes to eaſe themſelves.</item>
+                     <item>3. The Miniſters have not ſuch ready means to require or recover their dues, as the Clerks of particular Patrons have formerly had.</item>
+                     <item>4. Some of them are burdened, with providing for thoſe who (according to the Law fore-mentioned) are put upon them for relief, to which adding the paiment of a fifth part (with the relief of the poor, beſides many extraordinary charges, no leſſe then if they enjoyed the whole Benefice to themſelves) adde to all theſe the many harſh uſages they meet withall, from their ill affected people, their condition becometh ſo diſpleaſing to themſelves, that they are as capa<g ref="char:EOLhyphen"/>ble of pity with thoſe that know it, as of envy with thoſe that know it not.</item>
+                  </list>
+               </p>
+               <p>Fourthly, For the particular way or means of extending Charity to ſuch perſons as for offence to the State have forfei<g ref="char:EOLhyphen"/>ted their places of imploiment, and benefit annexed thereto: I will not take upon me to give any directions, but if there were
+<pb n="15" facs="tcp:118694:18"/>a Committee appointed to that purpoſe, and liberty given for others (as in ſome caſes it hath been) to make propoſals unto them, I doubt not but ſuch an Expedient might be offered to their approbation, as might be more comfortable for Sequeſtred Miniſters, and no ways grievous to any, as the paiment of a fifth part is, to moſt on whom it is oppoſed.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>Particular Reaſons againſt the Pai<g ref="char:EOLhyphen"/>ment of a fifth Part to D. <hi>E. H.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <argument>
+                  <p> Reaſons againſt Doctor <hi>H.</hi> his claim of a fifth Part, in Particular of the Rect. of <hi>Br.</hi>
+                  </p>
+               </argument>
+               <p>TO theſe Reaſons againſt the paiment of a fifth part in ge<g ref="char:EOLhyphen"/>neral, I ſhall annex ſome others in particular: which may evince, That though a fifth part might juſtly be aſſigned to ſome outed Miniſter, from ſome Miniſter Incumbent, yet not in our caſe; for neither is the Doctor ſuch a man as is capable of it, nor am I in a condition to part with ſuch a portion of my dues to his uſe.</p>
+               <p n="1">1. For the firſt, That he is not capable of the fifth part in the intent of the Ordinance (as the regular practice of the Com<g ref="char:EOLhyphen"/>mittee for Plundered Miniſters at <hi>Weſtminſter</hi> expounds it) I ſhall ſhew by two Reaſons:
+<list>
+                     <item>1. The one is that he needs it not.</item>
+                     <item>2. The other is, That if he did, there are other wayes for ſupply of his wants.
+<list>
+                           <item>1. That he needs it not, I can prove it by double evi<g ref="char:EOLhyphen"/>dence.
+<pb n="16" facs="tcp:118694:19"/>
+                              <list>
+                                 <item>1. From Himſelf.</item>
+                                 <item>2. From Others.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1. From Himſelf, he hath ſaid divers times, <hi>But for the Means he hath in</hi> Wiltſhire <hi>the Parſonage of</hi> Br. <hi>would not have anſwered his Charge in the time of the Warres;</hi> how much that addition amounted unto, I have not been informed; but ſecondly, That it is enough now for a competent Subſiſtence himſelf confeſſed, when (<hi>March</hi> 24, 1649.) he ſaid, <hi>That he ſhould not need a fifth part above two years,</hi> and to both theſe Teſtimonies of his, I can produce ſufficient witneſſe upon Oath (if he dare for conſcience, or can for ſhame deny his own words) but I think he will not, becauſe he did not, when I had mine evidence ready to produce againſt him, before the Committee at <hi>R.</hi>
+               </p>
+               <p>Now ſince he is known to be ſo good an Husband, as not onely to know his own Eſtate, but how to man<g ref="char:EOLhyphen"/>age it to his beſt advantage, and to ſpeak as much for his own Intereſt, and to purſue it as eagerly as any man can do, that makes not mammon his God, none that knows him, will ever believe he would have ſaid ſo much to the prejudice of his own profit, if it had not been true, and ſuch a truth as he was familiarly acquainted withall, and whereof he might be convinced if he ſhould ſay the con<g ref="char:EOLhyphen"/>trary.</p>
+               <p n="2">2. From Others: I was ready at <hi>R.</hi> upon the 19<hi rend="sup">th</hi> of <hi>October,</hi> 1652. the day agreed upon by the Committee (our Judges) and the Doctor himſelf, and me (the par<g ref="char:EOLhyphen"/>ties) for the hearing of our differences, to produce my Witneſſes for proof, that in <hi>Wiltſhire</hi> he had Lands, let for the yearly value of about 80 <abbr>l</abbr>, and Woods upon them worth many hundreds. But he knows, who would not ſuffer them to give in their Evidence upon this pretence, That the Ordinance allots the fifth part without any exce<g ref="char:EOLhyphen"/>ption, of other means or maintenance, more or leſſe, though he were ſo aſſuredly informed, That he could not but believe it, that the Committee for Plundered Mini<g ref="char:EOLhyphen"/>ſters at <hi>Weſtminſter,</hi> did by their ordinary practice clear
+<pb n="17" facs="tcp:118694:19"/>the meaning of the Ordinance, to be for the allowance of a fifth part onely, where other means of neceſſary Subſiſtance was wanting: and that upon good reaſon, for if a man may have a good Eſtate of his own, and never<g ref="char:EOLhyphen"/>theleſſe, without any pains, may have a fifth part of his portion who bears the whole burden of Miniſteriall du<g ref="char:EOLhyphen"/>ties, in the Church, of Houſ-keeping and of Hoſpitali<g ref="char:EOLhyphen"/>ty at home, and of all Taxes and Impoſitions for the Publique: the condition of many (both pains, means, and charge conſidered) will be better by putting out, then theirs who are put in to poſſeſſe their places, which ſurely cannot be according to the minde of the Par<g ref="char:EOLhyphen"/>liament.</p>
+               <p>Beſides, for the Doctors wife and children (ſhe being an in<g ref="char:EOLhyphen"/>heretrix of a fair Eſtate, when her father dieth, who is a weak man, and well ſtricken in years, if he be yet alive) there is no fear of their want, though they have neither Right nor part in the Rectory of <hi>Br.</hi>
+               </p>
+               <p n="2">2. For the other Reaſons, <hi>That if he had no means of his own, he ſhould be no ſharer with him in wages, who doth all the work (when he doth none of it for which it is due.)</hi> Beſides the Arguments againſt the fifth part in general, alrea<g ref="char:EOLhyphen"/>dy produced, it may reaſonably be pleaded, in barre to his claim of the fifth part by particular application unto him, That
+<list>
+                     <item>1. If he be not invincibly wilfull, againſt the Govern<g ref="char:EOLhyphen"/>ment which gives him Protection, he may no doubt have employment for his good parts, and a competent Sa<g ref="char:EOLhyphen"/>lary, for the good ſervice he may do, in the uſe and exer<g ref="char:EOLhyphen"/>ciſe of them.</item>
+                     <item>2. If he will not be taken off, nor abate any whit of his rigid miſconceits, and diſaffection to the preſent Go<g ref="char:EOLhyphen"/>vernment, and to their publick proceedings, nor forbear to do them as much diſſervice, as he can and dare (upon all occaſions in private and publique) they may think it a matter rather of favour, then of rigour, if he want to ſend him for ſupply to the known Laws of the Land (ſo much cried up by him and his party) and they will ſend
+<pb n="18" facs="tcp:118694:20"/>his wife and children, to the able Gentleman, her Father and their Grandfather, for in ſuch a caſe it is thus ordered by Law, <hi>The Father and Grand-father, Mother and Grand<g ref="char:EOLhyphen"/>mother, being of ſufficient ability, ſhall relieve them, in ſuch manner as the Juſtices of Peace, in that County where ſuch ſufficient Perſons dwell, at their quarter Seſſion, ſhall aſſeſſe. Dolt.</hi> Juſtice of Peace, printed for the Society of Stationers, <hi>an.</hi> 1619. p 84, 85.</item>
+                  </list>
+               </p>
+               <p>But he and his, if they were in want (being ſuch as they are, with ſuch an one as his Father in Law is) would finde mercy ready enough to receive them, without any order of Juſtice of procure their entertain<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <argument>
+                  <p> Reaſons why I ſhould not pay a fifth Part to the Doctor.</p>
+               </argument>
+               <p>NOw as by what hath been ſaid it appeareth in reſpect of him, That it is not reaſonable he ſhould require a fifth Part of the Pariſh of <hi>B.</hi> So I ſhall now give Reaſons (in reſpect of my ſelf) which may conclude it as unreaſonable that I ſhould pay it.</p>
+               <p n="1">1. Though I acknowledge with all thankfulneſſe, the Par<g ref="char:EOLhyphen"/>liaments benevolous intentions towards me, in deſigning me to officiate in ſuch places, as promiſed me a very comfortable reward, for the work of my Miniſtry: yet ſuch hath been my miſhap (through others Malignity) that I have been a loſer by them, and ſo little a gainer or ſaver by the exerciſe of my calling (for the beſt part of fourty years together) that upon a juſt occa<g ref="char:EOLhyphen"/>ſion (though but an unjuſt ſurmize of my thriving by adherency to the Parliament) I made bold to tell ſome of the moſt emi<g ref="char:EOLhyphen"/>nent Commonwealths-men of this Nation: <hi>That if they would make mine eſtate as good in Lands, as it was before I went to the <g ref="char:V">Ʋ</g>niverſity, or in money and goods, as good as before I had an Eccleſiaſtical benefit, I would ſerve the Church and State with my beſt abilities (according to my Conſcience) for nothing as
+<pb n="19" facs="tcp:118694:20"/>long as I lived. Or if they would but put me into as good a condition as I was poſſeſſed of before I was driven to flie from all I had, becauſe my Judgement and Conſcience engaged me to be of the Parliament Party: I would give up all I had of their gift, without any deſire of further Benefit from them.</hi> Which being true, I cannot but ſo farre confide in their wiſ<g ref="char:EOLhyphen"/>dome and goodneſſe, as to believe, they would not have ta<g ref="char:EOLhyphen"/>ken a fifth Part from me, to gratifie ſuch a Doctor that ſo little needed it.</p>
+               <p n="2">2. I may be the more confident herein, becauſe where I was laſt diſpoſed of, and where for my Settlement, there paſſed an Ordinance of both Houſes of Parliament (though it wanted a formality of accompliſhment, by the great Diviſion betwixt the Parliament, City and Army, which then happened) I was ſo great a ſufferer in all kindes by thoſe who hated the Right and Reformation of the Parliament, and me for their ſakes, that if my Cauſe had been ſeaſonably, throughly and truly repreſent<g ref="char:EOLhyphen"/>ed unto them, I doubt not, but they would rather have award<g ref="char:EOLhyphen"/>ed me reparations for wrongs, and damages ſuſtained, then mulct me by diminution of my wages, for the work which lieth wholly on me, and nothing at all upon the Doctor to per<g ref="char:EOLhyphen"/>form.</p>
+               <p n="3">3. As it was my loſing lot to part with the laſt Parſonage I had too ſoon (for it was a little before the harveſt was ready for the Reaper) and ſo to be<note n="m" place="margin">At <hi>Aſtb.</hi> where upon the death of Dr. <hi>Dod</hi> the Sequeſtred Re<g ref="char:EOLhyphen"/>ctor, by pre<g ref="char:EOLhyphen"/>tence of a Writ, <hi>De vi laica amovendâ,</hi> I was violently and illegally put out of poſſeſſion by the under-Sheriffe, but upon complaint to the Committee for Plundered Miniſters, reſtored within a fortnight after by an order coming from them, commanding the ſame under-She<g ref="char:EOLhyphen"/>riſte to put mine Antagoniſt out, and to put me into poſſeſſion again (and he did ſo) and to make his appearance before the Honourable Committee, to anſwer for his unwarrantable proceedings againſt me, but upon the requeſt of the high Sheriffe on his behalf, and becauſe he pleaded the Obligation of his Oath to ſerve all Writs that came to his hands, I excuſed his appearance: how the Sheriffs great Fee proſpered with him (for he was either liberally paid or promiſed for that illegall Act) I cannot tell, but ſure I am, they for whom he did it proſpered not, for he who was the pretended Preſentee poſſeſſed not the Par<g ref="char:EOLhyphen"/>ſonage, and had ſo much trouble with it, as he told me when I left it, that he wiſhed he had rather given 200 <abbr>l</abbr> then diſturbed me in it, and he that was really intended and put in in my room, was afterward for ſcandal removed.</note> both injuriouſly and barbarouſly driven from it, without any recompence either of my pains, or
+<pb n="20" facs="tcp:118694:21"/>charge upon it which was very great, by Houſe-keeping, Im<g ref="char:EOLhyphen"/>poſitions, and Quartering of ſouldiers; beſides that I was for<g ref="char:EOLhyphen"/>ced to put off my ſtock of Cattel at a low rate, which coſt me very dear: So was it my hard hap alſo, to come to <hi>Br.</hi> too late, when the Doctor had newly inned as his own, all the provi<g ref="char:EOLhyphen"/>ſion of the year paſt, and left nothing for me but mini<g ref="char:EOLhyphen"/>ſterial duty, and<note n="n" place="margin">
+                     <hi>Chamaelion</hi> ſolus anim alium, nec cibo, nec po<g ref="char:EOLhyphen"/>tualitur, nec alio quàm acris ali<g ref="char:EOLhyphen"/>mento. <hi>Plin.</hi> Nat. hiſt. l. <hi>8.</hi> c. <hi>33.</hi> p. <hi>118.</hi>
+                  </note> 
+                  <hi>Chamaelion</hi>-diet, untill the next Harveſt.</p>
+               <p n="4">4. The Committee at <hi>R.</hi> taking into their ſerious conſidera<g ref="char:EOLhyphen"/>tion, the neceſſary ſupply of him that ſhould undertake the Paſtoral Charge, made an Order, That the Doctor ſhould enter<note n="o" place="margin">Auguſt <hi>14. 1649. on which day part of their Order was,</hi> And he is permitted to receive the Tithes, provided he give ſecurity to the Committee to pay <hi>100 <abbr>l</abbr>
+                     </hi> to the next Mi<g ref="char:EOLhyphen"/>niſter in lieu thereof in caſe he be removed, <hi>which I have atteſted under the had of the Clerk of the Committee.</hi>
+                  </note> into Bond (which he did accor<g ref="char:EOLhyphen"/>dingly) for paiment of an 100 <abbr>l</abbr>, for his maintenance, out of the profits of the year precedent, which amounted to more by a double advantage, both of the value, and quantity of Corn, then had been known in one year, within the memory of man. But the Doctor got the Bond out of their hands again, by what means, whether direct or indirect, I determine not, but ſure I am he is a 100 <abbr>l</abbr> the bet<g ref="char:EOLhyphen"/>ter by having it, and I a 100 <abbr>l</abbr> the worſe by miſſing of that Summe: which ſhould have fallen to my ſhare, as his immedi<g ref="char:EOLhyphen"/>ate Succeſſour, and haply had done, if they that put him out, had put me in, but it is like it was diſpleaſing to ſome Commit<g ref="char:EOLhyphen"/>tee men at <hi>R.</hi> that they made a Blank at <hi>Br.</hi> and the Commit<g ref="char:EOLhyphen"/>tee at <hi>Weſtminſter</hi> filled it up: and yet I required not a forbear<g ref="char:EOLhyphen"/>ance of the fifth part, untill I had paid the Doctor 69 <abbr>l</abbr>—12 <abbr>s</abbr>—2 <abbr>d</abbr> (upon a very hard bargain) a double price to the juſt value of many of the things I bought, as ſome of better Judgement then my ſelf, and of better conſcience then he, made the eſtimation of them: and well nigh as much more under the Title of fifths, and thereby (by the ebbing of Tithes to me (which came in with full tide to him) and by the augmentation of my charges of ſeveral ſorts) I found my ſelf unable to pay him any more under the name of fifths.</p>
+               <p>Yet he complained to the Committee at <hi>R.</hi> that I had not conformed to their Order therein, when I had his Acquittan<g ref="char:EOLhyphen"/>ces for receipt of a fifth part for the time paſt, and at that time
+<pb n="21" facs="tcp:118694:21"/>he could claim no more untill the next Harveſt, whereof having made due proof before the Committee, his Suggeſtion was found<note n="*" place="margin">By the Committee of Parliament for the County of <hi>B.</hi> ſitting at <hi>R.</hi> the 15<hi rend="sup">th</hi> 
+                     <hi>June,</hi> 1652. This Committee being ſa<g ref="char:EOLhyphen"/>tisfied by M. <hi>John Ley</hi> Rector of <hi>Br.</hi> that Dr <hi>H.</hi> did miſ-inform them touching Mr. <hi>L.</hi> his non conformity to the Order for fifths, &amp; the yearly value of the Parſonage. It is now thought fit that the value propo<g ref="char:EOLhyphen"/>ſed in the letter of the 28 of <hi>April</hi> laſt, ſhall be no rule to apportion the fifths. And it is ordered, That the difference between M. <hi>L.</hi> and Dr. <hi>H.</hi> be heard before the Committee on the 20<hi rend="sup">th</hi> of <hi>July</hi> next, at which time Dr. <hi>H.</hi> is to prove the value of the Parſo<g ref="char:EOLhyphen"/>nage by ſubſtantial Witneſſes upon Oath, which are to be of the Pariſhioners.
+<list>
+                        <item>
+                           <hi>W. W.</hi> Major of <hi>R.</hi>
+                        </item>
+                        <item>
+                           <hi>W. St.</hi>
+                        </item>
+                        <item>
+                           <hi>J. W.</hi>
+                        </item>
+                        <item>
+                           <hi>G. W.</hi>
+                        </item>
+                     </list>
+                  </note> 
+                  <hi>a falſhood,</hi> and I was diſcharged from paiment ac<g ref="char:EOLhyphen"/>cording to that proportion, which he had procured upon it to be ra<g ref="char:EOLhyphen"/>rated and ratified by their Letter un<g ref="char:EOLhyphen"/>to me.</p>
+               <p n="5">5. And laſtly, I am put to relieve and maintain thoſe, whom the Law aſ<g ref="char:EOLhyphen"/>ſigneth to me for Suſtenance, under that Relation, which obligeth the Doctors Father in Law, to provide for his wife and children, if deſtitute of means: and this Charity of the Statute, is to take place, and be ſerved before that of the Ordinance for a fifth part, if none o<g ref="char:EOLhyphen"/>ther Objection could be made againſt it. [A part of this P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea put into the Committee at <hi>R.</hi> moved four or five to conſent, to order the repeal of the former Order, for paiment of the fifth part: but he refuſing to joyn with his Colleagues (though men<note n="*" place="margin">
+                     <list>
+                        <item>
+                           <hi>M.</hi> Stroud.</item>
+                        <item>
+                           <hi>M.</hi> Nutkins.</item>
+                        <item>
+                           <hi>M.</hi> Webb.</item>
+                        <item>
+                           <hi>M.</hi> Wooldridge.</item>
+                     </list>
+                  </note> of <hi>eminent Integrity and Godlineſſe</hi>) for Reaſons which I forbear (untill I have further cauſe to produce them) it was not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ful<g ref="char:EOLhyphen"/>ly ratified, as it ſhould have been in the Tearms and Tenor fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <div type="part">
+                  <head>By the Committee of Parliament,<note place="margin">Berks. ſſ.</note> for the ſaid County ſitting at <hi>Reading</hi> the <hi>19<hi rend="sup">th</hi>
+                     </hi> of <hi>October, 1632.</hi>
+                  </head>
+                  <p>FOr as much as this Committe, by an Order bearing date the 8<hi rend="sup">th</hi> of <hi>March</hi> 1649. did aſſigne the fifth part of the profits of the Rectory of <hi>Br</hi> Sequeſtred from D<hi rend="sup">r</hi> 
+                     <hi>E. H.</hi> for Scandal in life, and diſaffection to the Parliament, towards the mainte<g ref="char:EOLhyphen"/>nance of his Wife and Children, to be paid unto her, by M<hi rend="sup">r</hi> 
+                     <hi>John Ley</hi> Incumbent there (according to Ordinance of Parlia<g ref="char:EOLhyphen"/>ment in that behalf.) Now we the ſaid Committee, taking the uſual practice of the Honourable Committee for Plundered Mi<g ref="char:EOLhyphen"/>niſters,
+<pb n="22" facs="tcp:118694:22"/>both for interpretation and limitation of the ſaid Ordi<g ref="char:EOLhyphen"/>nance, in ſuch caſes, as a warrantable patern to follow, who make the Wife and Children incapable of the fifth part, where the ſequeſtred perſon, hath a competent Eſtate, for their main<g ref="char:EOLhyphen"/>tenance, and having now received teſtimony upon Oath, that the ſaid Dr. <hi>H.</hi> hath a temporal Eſtate in Lands, in poſ<g ref="char:EOLhyphen"/>ſeſſion, in the County of <hi>Wilts</hi> of the yearly value of 80 <abbr>l</abbr>, or thereabouts, and woods upon the ſaid Lands, eſtimated to be worth many hundred pounds, and taking into conſideration that about the time that Dr. <hi>H.</hi> was ſequeſtred from the ſaid Rectory, he entered into Bond to pay an 100 <abbr>l</abbr> to the next In<g ref="char:EOLhyphen"/>cumbent, out of his laſt years profits towards his pains and charges to ſerve the Cure untill the next Harveſt: and notwith<g ref="char:EOLhyphen"/>ſtanding the ſaid laſt years profits, was very advantagious to the ſaid Doctor, both in the quantity and price of Corn, yet was the ſaid Bond re-delivered to him, without any Satisfacti<g ref="char:EOLhyphen"/>on given to Mr. <hi>Ley</hi> the next Incumbent: As alſo Mr. <hi>Leys</hi> con<g ref="char:EOLhyphen"/>ſtant adherence to the Parliament, whereby he hath ſuſtained great loſſes by plunderings, and great charges by his enforced removals from place to place farre diſtant, and his maintaining three Orphane Children, whoſe Parents were impoveriſhed in the Parliaments ſervice. We conceive it Juſt and Equitable, and do likewiſe order, that the ſaid Mr. <hi>John Ley,</hi> be from hence forth diſcharged from farther paiment of the ſaid fifth part, or any part thereof to the ſaid Dr. <hi>H.</hi> his Wife and Chil<g ref="char:EOLhyphen"/>dren.</p>
+                  <p>M<hi rend="sup">r</hi> 
+                     <hi>Richard Whiſtler</hi> of <hi>Satwell,</hi> and <hi>Robert Hues</hi> of <hi>Bright-well</hi> were ready to depoſe upon Oath (as they received infor<g ref="char:EOLhyphen"/>mation) to the value of Dr. <hi>Hydes</hi> temporal Eſtate, and the Order above-recited was agreed upon, but one of the Com<g ref="char:EOLhyphen"/>mittee refuſed to ſit and joyn with the other four that voted to take away the fifth part, which is certified, and (if requi<g ref="char:EOLhyphen"/>red) ſhall be atteſted upon Oath by</p>
+                  <closer>
+                     <signed>
+                        <hi>Will. Carter</hi> Clark then attending the ſaid Committee.</signed>
+                     <pb n="23" facs="tcp:118694:22"/>
+                  </closer>
+                  <postscript>
+                     <p>And the ſame Seal ſhall I be ready to ſet to what I have ſaid, (if I be called to it) ſo that an Oath may be (as the Apoſtle wri<g ref="char:EOLhyphen"/>teth to the <hi>Hebrews</hi>) <hi>the end of all ſtrife,</hi> Heb 6.16.</p>
+                  </postscript>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <argument>
+                  <p> The Doctors claim of my Promiſe to pay him a fifth part, Anſwered.</p>
+               </argument>
+               <p>ANd here I thought I had ended with the Doctor, for this difference about the fifth part: but while I was ſetting my papers in order for the Preſs (the day before I was to ſend them to <hi>London</hi>) I received a Letter from him, wherein he challeng<g ref="char:EOLhyphen"/>eth a ſecond promiſe of me (for once he did the like before) for the paiment of the fifth part of the Parſonage, after ſuch a proportion as he could procure the whole to be let to, and paid by ſufficient undertakers, which was farre more then ever I could make of it. Of theſe two promiſes he claimeth one (though not in this Letter) before the date of the Order of the 15<hi rend="sup">th</hi> of <hi>June,</hi> 1652. forementioned in the Margine: The o<g ref="char:EOLhyphen"/>ther ſince the Order <hi>Octob.</hi> 19, the ſame year, though within a while after, as about two or three hours of the ſame day.</p>
+               <p>For the former, the truth is upon his importunate preſſing of me to let it (becauſe he ſaw I was not worldly minded enough to make the beſt of it) I told him, if a competent number of the chief of the Pariſh would take it, and give good ſecurity for paiment of the Summe to be agreed upon, I would farm it out to them, he promiſed to bring me ſuch to <hi>Wall.</hi> by a day prefixed.</p>
+               <p>That day come, he brought with him to <hi>Wall:</hi> (the place ap<g ref="char:EOLhyphen"/>pointed for our meeting) only two men, to take all the profits of the Rectory, and to undertake for the paiment of what he agreed upon: againſt whom I took exception <hi>joyntly</hi> and <hi>ſeve<g ref="char:EOLhyphen"/>rally: Joyntly,</hi> becauſe both of them together, were not held of ſufficient Eſtate (by ſuch as knew both of them better then I did) to anſwer ſuch a Summe as the Doctor had drawn them (by what artifices or ſecret ſecurity I know not) to engage for:
+<pb n="24" facs="tcp:118694:23"/>for the one of them had no Land at all, the other but about half a yard Land, and for their Eſtate in ſtock, that was very uncertain, and not viſibly ſuch as might be ſufficient ſecurity, if they ſhould put me to ſue them for breach of Covenant with me: and againſt them both the principal Pariſhioners took excepti<g ref="char:EOLhyphen"/>ons, as men diſpoſed to deal a great deal more ſtrictly with them, by a more rigorous exacting of all Eccleſiaſtical Rights, then their Miniſter would uſe. And yet that year had they taken it they might have loſt at leaſt a 100 <abbr>l</abbr>, as they made the eſtimati<g ref="char:EOLhyphen"/>on, who were beſt acquainted with the conſtant revenue of the Rectory; and if it had ſo fallen out or ſomewhat near it (the truth whereof I was not able to diſcover) would they not have fallen from their Covenant? and have been clamarous againſt me, if I had put them in ſuit for the whole, when they had fallen ſo farre ſhort of their expected profit? and might they not, having my goods in their hands, and I but their paper and wax in mine, have advantage enough to weary me out, if I took a legal courſe to recover my Right? And as theſe were <hi>joynt</hi> ex<g ref="char:EOLhyphen"/>ceptions againſt them both, ſo there were ſome <hi>ſeveral</hi> or <hi>pecu<g ref="char:EOLhyphen"/>liar</hi> to each of them, for the <hi>one</hi> was not of the Pariſh (as I pro<g ref="char:EOLhyphen"/>poſed, he conſented, and both conditioned the Tenants ſhould be) and beſides be was too intimate a friend of the Doctors: The <hi>other</hi> not ſo well-affected to me, as my minde towards him, and the Parochial relation betwixt us required: for living in the Pariſh, and neer the Church, yet he conſtantly excommu<g ref="char:EOLhyphen"/>nicateth himſelf out of the compaſs of my Miniſtry (and hath done as well before that time as ſince) for what cauſes, and how he hath carried himſelf towards me otherwiſe, ſome do know, but God who beſt knoweth us both will one day judge.</p>
+               <p>The other promiſe of <hi>Octob.</hi> 19. was not as the former onely verbal, but written and teſtified by two witneſſes, it was of this form,</p>
+               <floatingText xml:lang="eng" type="contract">
+                  <body>
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>Nineteenth of October,</hi> 1652.</date>
+                        </dateline>
+                     </opener>
+                     <p>IT is this day agreed by the mutual conſent of M<hi rend="sup">r</hi> 
+                        <hi>John Ley</hi> Rector of <hi>Br.</hi> and D<hi rend="sup">r</hi> 
+                        <hi>E. H.</hi> from whom the ſame ſtands ſe<g ref="char:EOLhyphen"/>queſtred, that the Doctor ſhall take his fifth part (for the year 1652.) proportionably according to M<hi rend="sup">r</hi> 
+                        <hi>Leys</hi> accompt: and that
+<pb n="25" facs="tcp:118694:23"/>for the year to come, the Doctor ſhall have a fifth part after the Rate of—And he deducting and allowing a fifth part of all ſuch charges and paiments, as he allowed for the year paſt: pro<g ref="char:EOLhyphen"/>vided that ſuch and ſo many ſufficient men become bound to M<hi rend="sup">r</hi> 
+                        <hi>Ley</hi> for the paiment of the ſaid Summe as he ſhall accept, and approve of.</p>
+                     <closer>
+                        <signed>Witneſs to this Agreement <hi>Alex. Bl. Will. Car.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>To this neither his hand nor mine was ſubſcribed, becauſe he went out of <hi>R.</hi> before it was drawn up, and whether he would approve of it or no <hi>in terminis,</hi> I could not tell: and therefore I ſuſpended my ratification of it, yet when we met we both a<g ref="char:EOLhyphen"/>greed to it, though without Subſcription on either part.</p>
+               <p>It was his part to begin to act, according to this agreement, and he maketh account he performed it, when he brought M. <hi>D.</hi> of <hi>W.</hi> to bid me a price for the Rectory, which was on Tueſday <hi>Jun.</hi> 13. 1654. for of that he ſaith, <hi>He hath performed his part of the agreement</hi> in his Letter dated from <hi>Hart-Hall, Septemb.</hi> the 9. 1654. <hi>Buc.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> He failed both
+<list>
+                     <item>1. In the Summe. And</item>
+                     <item>2. In the Security.</item>
+                  </list>
+               </p>
+               <p n="1">1. For the Summe, M. <hi>D.</hi> offered 20 <abbr>l</abbr> leſſe then the written agreement. 2. He fell off from that he offered 40 <abbr>l</abbr> or 30 <abbr>l</abbr> at leaſt: becauſe I told I was engaged by promiſe, not to con<g ref="char:EOLhyphen"/>clude with him (who was none of the Pariſh) before I had propoſed his terms unto the Pariſh: wherein I was the more willing to keep my word, becauſe they were very unwilling he ſhould be my Tenant for the Tithe.</p>
+               <p>But the chiefeſt of them (who appeared in the Buſineſs) confeſſing they could not pay ſo much, and ſo ſoon as he had undertaken, were content that I ſhould proceed and conclude with him.</p>
+               <p>This I thought would pleaſe him well, and therefore (ſo ſoon as I parted with them) I went to <hi>Wall.</hi> to tell him of it,
+<pb n="26" facs="tcp:118694:24"/>he being not at home, I left the intelligence for him in a Let<g ref="char:EOLhyphen"/>ter, deſiring him the next morning to come to me, that (the great rub removed (the Pariſhioners diſlike of his Tenantſhip for the Tithes) we might finally conclude what was formerly propoſed.</p>
+               <p>That day he came not, but on Thurſday <hi>June</hi> 15. he came and told me, If I would abate him 30 or 40 <abbr>l</abbr> of what he had bidden me, he would take the Tithes of me, otherwiſe not: it was ſtrange to me that he ſhould now refuſe the bargain, and think it worſe by ſo much (when he might have it with peace) then when there was much diſpleaſure and indignation taken at his motion.</p>
+               <p n="2">2. For the Security (whatſoever Summe was agreed upon) he would give me but his own Bond, without a Surety, where<g ref="char:EOLhyphen"/>as by the written agreement, the Doctor was <hi>to bring ſuch, and ſo many ſufficient men to be bound for the paiment of the rent, as I ſhould accept and approve of.</hi> This made many confident (which upon ſurmiſe I would not believe at the firſt) that the Gen<g ref="char:EOLhyphen"/>tleman (being the Doctors intimate friend) this Treaty with me, was but a deſign to raiſe the fifth part to an unequal growth, that it might be to the other four, as the thumb a<g ref="char:EOLhyphen"/>mong the fingers: There were other ſuſpitions taken up by ſome, That the Gentleman meant to take the Tithe and Glebe in his own Name, but after to turn over his Bargain to the Doctor, that he might by that means ſet him in poſſeſſion of the Parſonage again. But he aſſured me he had no ſuch mean<g ref="char:EOLhyphen"/>ing, and I meant to aſſure my ſelf he ſhould not do it if he would, reſolving of an expreſs condition to the contrary, with a conſiderable penalty if it were broken: and for my perfor<g ref="char:EOLhyphen"/>mance of promiſe, the Doctor himſelf hath (upon ſufficient experience) ſaid, he doubts not of keeping of my promiſe, but he was not pleaſed that I was with much difficulty drawn to make a promiſe, and even in his laſt Letter <hi>Septem.</hi> 6. 1654. his words are theſe, <hi>If you have not a minde to let your Living, you may keep it, but withall I ſuppoſe you will have more minde to keep your word: that you may do if you come to a leſs propertion with my conſent, elſe you cannot.</hi>
+               </p>
+               <p>Why not? when the failing was on his part, not on mine,
+<pb n="27" facs="tcp:118694:24"/>both for the Summe and Security, as hath been ſhewen, and may be more fully evidenced by M. <hi>D.</hi> his Letter of the 19. of <hi>June,</hi> as followeth,</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>HAd you been pleaſed to have accepted of my offer which I made to you in preſence of D. <hi>H.</hi> I ſhould then have ſtood to it, and not have gone back: but in regard you did then refuſe me, and have ſince treated with others, I ſhall intreat you, now to hold me excuſed, in my <hi>non</hi>-accepting their refuſals: for I ſhall not deal now upon any terms: not elſe, but reſpective ſalutes, from</p>
+                     <closer>
+                        <dateline>
+                           <hi>Wall.</hi> 
+                           <date>19. <hi>Jun.</hi> 1654.</date>
+                        </dateline>
+                        <signed>Your aſſured loving friend and ſervant <hi>Fr. D.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>I was willing enough to have accepted of this offer, but ſo as I might keep my promiſe with my Pariſhioners, which had but ſuſpended our agreement for a few hours, had he been at home: for the ſame day, he made that offer before D. <hi>H.</hi> (with a ſtrong temptation to break my word; for he told me, if I would then take him at his word, he would then pay me an 100 <abbr>l</abbr> before I went out of his houſe) I came to acquaint him with the Pariſh<g ref="char:EOLhyphen"/>es conſens (at leaſt the conſent of the chief of them) for rent<g ref="char:EOLhyphen"/>ing the Rectory unto him.</p>
+               <p>Now when neither the Doctor, nor he whom he propoundeth for a taker, come up to the Conditions of the Covenant betwixt us, Is it reaſon that I ſhould be tied up alone to it? I doubt not but every wiſe and good man will (the premiſes conſidered) account me free from the precedent Engagements, and being free, it is time for me to give over, both promiſes and paiments to him, who hath had much more from me, and I much leſſe from him, then (in equity and conſcience) was due betwixt us.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
